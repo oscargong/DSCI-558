@@ -1,2 +1,2 @@
 # DSCI-558
-This repository will contain the assignments I finished and the material used in  USC  DSCI-558 Building Knowledge Graphs course.
+The assignments I finished and the material used in USC [DSCI-558 Building Knowledge Graphs](https://classes.usc.edu/term-20203/course/dsci-558) course.

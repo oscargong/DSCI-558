@@ -1,0 +1,786 @@
+2020-09-04 01:16:22 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6051296/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=701)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:20:02 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6651161/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=301)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:22:24 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm5709125/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=51)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:22:52 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm8287501/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=101)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:23:16 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm5828485/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:24:46 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm9016108/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1601)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:25:03 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm3211470/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1551)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:26:13 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm0808210/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1451)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:26:24 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm2193120/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1451)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:26:25 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4712342/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1451)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:27:18 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4968973/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1351)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:27:19 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm7737419/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1351)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:27:33 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6366417/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1301)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:27:58 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm5093708/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1301)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:30:42 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6442992/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1001)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:31:18 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4587360/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=951)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:31:20 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm8841751/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=951)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:31:34 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm3253943/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=901)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:33:00 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6746818/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2501)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:33:09 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm1068186/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2501)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:33:18 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4446254/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2501)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:34:10 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm7051533/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2401)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:34:26 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm0102873/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2401)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:35:08 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm3019617/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2301)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:35:11 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4799275/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2301)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:35:22 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm11110971/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2301)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:35:26 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm3666289/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2301)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:35:45 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm7380180/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2251)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:36:35 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm9877392/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2151)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:37:06 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4368020/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2101)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:37:46 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm9681752/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2051)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:38:12 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm3207866/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2001)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:38:15 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm7566507/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2001)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:38:37 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm5927737/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1951)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:38:55 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm5315479/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1951)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:39:30 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4170048/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1901)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:39:38 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm5949710/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1851)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:40:45 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4496161/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1751)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:41:18 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm0731897/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1701)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:41:26 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4955720/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=1701)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:42:01 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm8616975/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3351)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:43:45 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4468943/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3201)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:44:25 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4651633/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3151)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:45:03 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm8684137/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3051)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:45:06 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm2281371/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3051)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:45:20 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm2624186/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3051)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:47:00 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4538831/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2851)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:47:35 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4415419/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2801)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:47:47 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm8061858/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2801)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:48:30 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm1509478/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2751)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:48:39 [imdb.spiders.cast] ERROR: https://www.imdb.com/name/nm0046033/bio, on date_of_death, error:list index out of range
+2020-09-04 01:48:39 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm0046033/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2701)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 103, in parse_detail
+    cast_item['date_of_death'] = date_of_death
+UnboundLocalError: local variable 'date_of_death' referenced before assignment
+2020-09-04 01:48:41 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm0858799/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2701)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:49:02 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm10057569/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2651)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:49:08 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm8958770/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2651)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:49:54 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm7533568/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=2601)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:50:58 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm10557982/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4201)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:51:16 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm0912040/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4201)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:53:04 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm9584442/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4001)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:53:39 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm9188644/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3951)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:54:20 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm9281686/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3851)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:54:50 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm0205522/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3801)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:54:58 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm7107447/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3801)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:55:50 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4667984/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3751)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:57:20 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm1948526/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3551)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:58:12 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm5857152/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3501)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:59:03 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm9007978/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3401)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:59:05 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm3148372/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3401)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:59:18 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm10060146/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=3401)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:59:35 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm1956691/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4451)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:59:44 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm8961313/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5051)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 01:59:56 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm5999355/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5051)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:00:33 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm3748060/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5001)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:00:59 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm5057444/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4951)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:01:05 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6863919/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4951)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:01:09 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4024520/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4951)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:01:33 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6384402/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4901)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:02:01 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm7257831/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4851)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:02:16 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm5427486/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4801)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:02:43 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm1160962/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4801)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:02:51 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm5248879/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4751)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:03:33 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4865040/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4701)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:03:39 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm3769827/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4701)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:03:45 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm0544371/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4701)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 104, in parse_detail
+    cast_item['place_of_death'] = place_of_death
+UnboundLocalError: local variable 'place_of_death' referenced before assignment
+2020-09-04 02:03:58 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm10441597/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4651)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:04:28 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm9209960/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4601)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:04:30 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm5031376/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4601)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:05:02 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm2199657/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4551)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:05:32 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm9076764/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4501)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:05:32 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6964082/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4501)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:05:54 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm2720748/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4451)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:05:56 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm10596802/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4451)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:05:59 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6183410/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4451)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:06:04 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6015110/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4451)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:06:15 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm9305465/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4451)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:06:20 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm1342809/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4401)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:06:46 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6854116/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4401)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:06:57 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4576371/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4351)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:07:16 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm0911395/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4351)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:07:19 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4148205/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4301)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:07:35 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm2116860/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=4301)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:07:47 [imdb.spiders.cast] ERROR: https://www.imdb.com/name/nm1531180/bio, on date_of_birth, error:list index out of range
+2020-09-04 02:08:36 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6134380/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5451)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:08:50 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm7527792/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5451)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:09:17 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm0269542/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5401)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:09:41 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm7100118/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5351)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:09:48 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm9349439/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5351)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:10:06 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm6639179/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5301)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:10:35 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm3778244/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5251)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:11:00 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm2417670/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5251)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:11:09 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm4223458/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5201)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:11:13 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm0131966/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5201)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:12:00 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm3678876/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5151)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range
+2020-09-04 02:12:18 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.imdb.com/name/nm3680618/bio> (referer: https://www.imdb.com/search/name/?gender=male,female&start=5101)
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/Users/oscar/Dropbox/1) Schoolwork/DSCI 558 Building Knowledge Graphs/Homework 01/imdb/imdb/spiders/cast.py", line 52, in parse_detail
+    overviewtable_tag = soup.select('#overviewTable')[0]
+IndexError: list index out of range

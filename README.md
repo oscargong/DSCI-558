@@ -1,5 +1,5 @@
 # DSCI-558
-The assignments I finished and the material used in USC [DSCI-558 Building Knowledge Graphs](https://classes.usc.edu/term-20203/course/dsci-558) course.
+The assignments I finished and the material used in USC [DSCI-558 Building Knowledge Graphs](https://classes.usc.edu/term-20203/course/dsci-558) course, which brought by [USC Knowledge Graph Center](https://usc-isi-i2.github.io/home/).
 
 ## Assignments
 

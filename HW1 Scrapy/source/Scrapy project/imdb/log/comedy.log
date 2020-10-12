@@ -1,0 +1,7 @@
+2020-09-04 16:06:35 [imdb.spiders.comedy] ERROR: https://www.imdb.com/title/tt10333302/?ref_=adv_li_i, on genre, error:list index out of range
+2020-09-04 16:06:35 [imdb.spiders.comedy] ERROR: https://www.imdb.com/title/tt10333302/?ref_=adv_li_i, on language, error:'NoneType' object has no attribute 'select'
+2020-09-04 16:06:35 [imdb.spiders.comedy] ERROR: https://www.imdb.com/title/tt10333302/?ref_=adv_li_i, on release date, error:'NoneType' object has no attribute 'select'
+2020-09-04 16:06:35 [imdb.spiders.comedy] ERROR: https://www.imdb.com/title/tt10333302/?ref_=adv_li_i, on budget, error:'NoneType' object has no attribute 'select'
+2020-09-04 16:06:35 [imdb.spiders.comedy] ERROR: https://www.imdb.com/title/tt10333302/?ref_=adv_li_i, on gross, error:'NoneType' object has no attribute 'select'
+2020-09-04 16:06:35 [imdb.spiders.comedy] ERROR: https://www.imdb.com/title/tt10333302/?ref_=adv_li_i, on runtime, error:'NoneType' object has no attribute 'select'
+2020-09-04 16:06:38 [imdb.spiders.comedy] ERROR: https://www.imdb.com/title/tt0817538/?ref_=adv_li_i, on budget, error:list index out of range

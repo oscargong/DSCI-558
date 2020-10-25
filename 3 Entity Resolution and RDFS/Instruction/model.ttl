@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix schema: <http://schema.org/> .
+@prefix my_ns: <http://dsci558.org/myfakenamespace#> .
+
+#### Movie Class ####
+my_ns:Movie a schema:Class ;
+    rdfs:subClassOf schema:Movie ;
+    # TODO: complete the rest of the missing attributes
+    schema:productionCompany my_ns:productionCompany ;
+    schema:datePublished xsd:date ;
+    schema:genre my_ns:Genre ;
+    my_ns:imdb_rating xsd:float .
+
+# TODO: here's how you can define a class, you can add more
+
+#### Production Company Class ####
+my_ns:productionCompany a schema:Class ;
+    rdfs:subClassOf schema:Organization ;
+    schema:name schema:text .
+
+#### Genre Class ####
+my_ns:Genre a rdfs:Class ;
+    schema:name schema:text .
+
+# TODO: here's how you can define a property, you can add more
+
+#### IMDB-Rating Property ####
+my_ns:imdb_rating a rdf:Property ;
+    rdfs:domain my_ns:Movie ;
+    rdfs:range xsd:float .

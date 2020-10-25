@@ -1,0 +1,67 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix schema: <http://schema.org/> .
+@prefix my_ns: <http://dsci558.org/myfakenamespace#> .
+
+# ✓ title, ✓ release-date, ✓ certificate, ✓ runtime, ✓ genre, ✓ imdb-rating, ✓ imdb-metascore, ✓ imdb-votes, ✓ gross-income, ✓ producer, ✓ writer, ✓ cinematographer, ✓ production-company.
+
+
+my_ns:title rdf:type rdfs:Property ;
+    rdfs:label "Property: film title";
+    rdfs:domain my_ns:Movie ;
+    rdfs:range schema:text .
+
+my_ns:release_date rdf:type rdfs:Property ;
+    rdfs:label "Property: release date" ;
+    rdfs:domain my_ns:Movie ;
+    rdfs:range schema:date .
+
+my_ns:imdb_rating rdf:type rdf:Property ;
+    rdfs:label "Property: rating" ;
+    rdfs:domain my_ns:Movie ;
+    rdfs:range xsd:float .
+
+my_ns:imdb_metascore rdf:type rdf:Property ;
+    rdfs:label "Property: imdb_metascore" ;
+    rdfs:domain my_ns:Movie ;
+    rdfs:range xsd:integer .
+
+my_ns:imdb_votes rdf:type rdf:Property ;
+    rdfs:label "Property: imdb_votes";
+    rdfs:domain my_ns:Movie ;
+    rdfs:range xsd:integer .
+
+my_ns:gross_income rdf:type rdf:Property ;
+    rdfs:label "Property: gross_income" ;
+    rdfs:domain my_ns:Movie ;
+    rdfs:range schema:MonetaryAmount .
+
+my_ns:cinematographer rdf:type rdf:Property ;
+    rdfs:label "Property: cinematographer" ;
+    rdfs:domain my_ns:Movie ;
+    rdfs:range schema:Person .
+
+### Production Company Class ####
+my_ns:productionCompany rdf:type schema:Class ;
+    rdfs:subClassOf schema:Organization ;
+    schema:name schema:text .
+
+#### Movie Class ####
+my_ns:Movie rdf:type schema:Class ;
+    rdfs:subClassOf schema:Movie ;
+    my_ns:title schema:text ; # title aif
+    schema:datePublished xsd:date ; # release_date afi
+    schema:contentRating schema:Rating ; # certificate imdb
+    schema:duration schema:Duration ; # runtime imdb
+    schema:genre schema:text ; # genre both
+    my_ns:imdb_rating xsd:float ; # imdb_rating 
+    my_ns:imdb_metascore xsd:integer ; #imdb_metascore
+    my_ns:imdb_votes xsd:integer ; # imdb_votes
+    my_ns:gross_income schema:MonetaryAmount ; #gross_income imdb
+    schema:producer schema:Person ; # producer afi
+    schema:author schema:Person ; # writer afi
+    my_ns:cinematographer schema:Person ; #cinematographer afi
+    schema:productionCompany my_ns:productionCompany ; # production_company afi

@@ -1,0 +1,98 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix schema: <http://schema.org/> .
+@prefix my_ns: <http://dsci558.org/myfakenamespace#> .
+
+my_ns:title rdf:type rdfs:Property ;
+    rdfs:label "Property: film title";
+    rdfs:domain my_ns:Movie ;
+    rdfs:range schema:text .
+
+my_ns:release_date rdf:type rdfs:Property ;
+    rdfs:label "Property: release date" ;
+    rdfs:domain my_ns:Movie ;
+    rdfs:range schema:date .
+
+my_ns:imdb_rating rdf:type rdf:Property ;
+    rdfs:label "Property: rating" ;
+    rdfs:domain my_ns:Movie ;
+    rdfs:range xsd:float .
+
+my_ns:imdb_metascore rdf:type rdf:Property ;
+    rdfs:label "Property: imdb_metascore" ;
+    rdfs:domain my_ns:Movie ;
+    rdfs:range xsd:integer .
+
+my_ns:imdb_votes rdf:type rdf:Property ;
+    rdfs:label "Property: imdb_votes";
+    rdfs:domain my_ns:Movie ;
+    rdfs:range xsd:integer .
+
+my_ns:gross_income rdf:type rdf:Property ;
+    rdfs:label "Property: gross_income" ;
+    rdfs:domain my_ns:Movie ;
+    rdfs:range schema:MonetaryAmount .
+
+my_ns:cinematographer rdf:type rdf:Property ;
+    rdfs:label "Property: cinematographer" ;
+    rdfs:domain my_ns:Movie ;
+    rdfs:range schema:Person .
+
+### Production Company Class ####
+my_ns:productionCompany rdf:type schema:Class ;
+    rdfs:subClassOf schema:Organization ;
+    schema:name schema:text .
+
+#### Movie Class ####
+my_ns:Movie rdf:type schema:Class ;
+    rdfs:subClassOf schema:Movie ;
+    my_ns:title schema:text ; # title aif
+    schema:datePublished xsd:date ; # release_date afi
+    schema:contentRating schema:Rating ; # certificate imdb
+    schema:duration schema:Duration ; # runtime imdb
+    schema:genre schema:text ; # genre both
+    my_ns:imdb_rating xsd:float ; # imdb_rating 
+    my_ns:imdb_metascore xsd:integer ; #imdb_metascore
+    my_ns:imdb_votes xsd:integer ; # imdb_votes
+    my_ns:gross_income schema:MonetaryAmount ; #gross_income imdb
+    schema:producer schema:Person ; # producer afi
+    schema:author schema:Person ; # writer afi
+    my_ns:cinematographer schema:Person ; #cinematographer afi
+    schema:productionCompany my_ns:productionCompany . # production_company afi
+
+<http://dsci558.org/myfakenamespace#RKO%20Radio%20Pictures%2C%20Inc.> a my_ns:productionCompany ;
+    rdfs:subClassOf schema:Organization ;
+    schema:name "RKO Radio Pictures, Inc."^^schema:text .
+
+<https://www.imdb.com/title/tt0029947/> a my_ns:Movie ;
+    my_ns:gross_income [ ] ;
+    my_ns:imdb_metascore 91 ;
+    my_ns:imdb_rating "7.9"^^xsd:float ;
+    my_ns:imdb_votes "52,296"^^xsd:integer ;
+    my_ns:title "BRINGING UP BABY "^^schema:text ;
+    schema:author [ ] ;
+    schema:cinematographer "Russell Metty"^^schema:Person ;
+    schema:contentRating "Not Rated"^^schema:Rating ;
+    schema:datePublished "1938-05-11T00:00:00"^^xsd:date ;
+    schema:duration "01:42:00"^^schema:Duration ;
+    schema:genre "Screwball comedyComedy, Family, Romance"^^schema:text ;
+    schema:producer [ ] ;
+    schema:productionCompany <http://dsci558.org/myfakenamespace#RKO%20Radio%20Pictures%2C%20Inc.> .
+
+<https://www.imdb.com/title/tt0024216/> a my_ns:Movie ;
+    my_ns:gross_income "$10.00M"^^schema:MonetaryAmount ;
+    my_ns:imdb_metascore 90 ;
+    my_ns:imdb_rating "7.9"^^xsd:float ;
+    my_ns:imdb_votes "75,614"^^xsd:integer ;
+    my_ns:title "KING KONG "^^schema:text ;
+    schema:author "James Ashmore Creelman"^^schema:Person ;
+    schema:cinematographer "Vernon L. Walker"^^schema:Person ;
+    schema:contentRating "Passed"^^schema:Rating ;
+    schema:datePublished "1933-08-15T00:00:00"^^xsd:date ;
+    schema:duration "01:40:00"^^schema:Duration ;
+    schema:genre "Adventure, HorrorAdventure, Horror, Sci-Fi"^^schema:text ;
+    schema:producer "David O. Selznick"^^schema:Person ;
+    schema:productionCompany <http://dsci558.org/myfakenamespace#RKO%20Radio%20Pictures%2C%20Inc.> .

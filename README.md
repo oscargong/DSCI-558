@@ -15,5 +15,5 @@ The assignments I finished and the material used in USC [DSCI-558 Building Knowl
 
 ## Documents
 
-The W3C documents are hard to read: poorly typography and impossible to mark up.  KG is a rapid-growing domain, lacks well-written documentation. I put my organized W3C documents and other useful materials here.
+The W3C documents are hard to read: poorly typography and impossible to mark up.  KG is a rapid-growing domain, lacks well-written documents. I put my organized W3C documents and other useful materials here.
 

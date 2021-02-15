@@ -1,0 +1,138 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix lmdb: <http://data.linkedmdb.org/movie/> .
+@prefix lmdb_actor: <http://data.linkedmdb.org/actor/> .
+@prefix lmdb_cinematographer: <http://data.linkedmdb.org/cinematographer/> .
+@prefix lmdb_country: <http://data.linkedmdb.org/country/> .
+@prefix lmdb_director: <http://data.linkedmdb.org/director/> .
+@prefix lmdb_editor: <http://data.linkedmdb.org/editor/> .
+@prefix lmdb_film: <http://data.linkedmdb.org/film/> .
+@prefix lmdb_film_collection: <http://data.linkedmdb.org/film_collection/> .
+@prefix lmdb_film_cut: <http://data.linkedmdb.org/film_cut/> .
+@prefix lmdb_film_genre: <http://data.linkedmdb.org/film_genre/> .
+@prefix lmdb_producer: <http://data.linkedmdb.org/producer/> .
+@prefix lmdb_writer: <http://data.linkedmdb.org/writer/> .
+
+lmdb_actor:12551 a lmdb:actor,
+        foaf:Person ;
+    rdfs:label "Alexis Arquette (Actor)" ;
+    lmdb:actor_actorid "12551"^^xsd:int ;
+    lmdb:actor_name "Alexis Arquette" ;
+    owl:sameAs <http://dbpedia.org/resource/Alexis_Arquette>,
+        <http://mpii.de/yago/resource/Alexis_Arquette>  .
+
+lmdb_cinematographer:1709 a lmdb:cinematographer,
+        foaf:Person ;
+    rdfs:label "Andrzej Sekula (Cinematographer)" ;
+    lmdb:cinematographer_cinematographerid "1709"^^xsd:int ;
+    lmdb:cinematographer_name "Andrzej Sekula" .
+
+lmdb_country:US a lmdb:country ;
+    rdfs:label "United States (Country)" ;
+    lmdb:country_areaInSqKm 9.629091e+06 ;
+    lmdb:country_capital "Washington" ;
+    lmdb:country_continent "NA" ;
+    lmdb:country_currency "USD" ;
+    lmdb:country_fips_code "US" ;
+    lmdb:country_id "221"^^xsd:int ;
+    lmdb:country_iso_alpha2 "US" ;
+    lmdb:country_iso_alpha3 "USA" ;
+    lmdb:country_iso_numeric "840" ;
+    lmdb:country_languages "en-US,es-US,haw" ;
+    lmdb:country_name "United States" ;
+    lmdb:country_population "303824000" ;
+    owl:sameAs <http://sws.geonames.org/6252001/> .
+
+lmdb_director:7253 a lmdb:director,
+        foaf:Person ;
+    rdfs:label "Quentin Tarantino (Director)" ;
+    lmdb:director_directorid "7253"^^xsd:int ;
+    lmdb:director_name "Quentin Tarantino" ;
+    foaf:made lmdb_film:77 .
+
+lmdb_editor:2222 a lmdb:editor,
+        foaf:Person ;
+    rdfs:label "Sally Menke (Editor)" ;
+    lmdb:editor_editorid "2222"^^xsd:int ;
+    lmdb:editor_name "Sally Menke" .
+
+lmdb_film:77 a lmdb:film ;
+    rdfs:label "Pulp Fiction" ;
+    lmdb:actor lmdb_actor:12551,
+        lmdb_actor:12771,
+        lmdb_actor:14330,
+        lmdb_actor:15043,
+        lmdb_actor:16460,
+        lmdb_actor:16952,
+        lmdb_actor:17390,
+        lmdb_actor:18246,
+        lmdb_actor:20270,
+        lmdb_actor:22642,
+        lmdb_actor:23469,
+        lmdb_actor:24834,
+        lmdb_actor:25084,
+        lmdb_actor:25211,
+        lmdb_actor:25337,
+        lmdb_actor:26299,
+        lmdb_actor:26602,
+        lmdb_actor:27505,
+        lmdb_actor:28126,
+        lmdb_actor:28524,
+        lmdb_actor:28754 ;
+    lmdb:cinematographer lmdb_cinematographer:1709 ;
+    lmdb:country lmdb_country:US ;
+    lmdb:director lmdb_director:7253 ;
+    lmdb:editor lmdb_editor:2222 ;
+    lmdb:film_collection lmdb_film_collection:3 ;
+    lmdb:film_cut lmdb_film_cut:5029,
+        lmdb_film_cut:5030 ;
+    lmdb:filmid "77"^^xsd:int ;
+    lmdb:genre lmdb_film_genre:24,
+        lmdb_film_genre:4,
+        lmdb_film_genre:71 ;
+    lmdb:initial_release_date "1994,1994-10-14" ;
+    lmdb:language <http://www.lingvoj.org/lingvo/en> ;
+    lmdb:producer lmdb_producer:8134 ;
+    lmdb:runtime "154",
+        "168" ;
+    lmdb:writer lmdb_writer:11539,
+        lmdb_writer:11863 ;
+    dcterms:date "1994,1994-10-14" ;
+    dcterms:title "Pulp Fiction" ;
+    owl:sameAs <http://dbpedia.org/resource/Pulp_Fiction_%28film%29>,
+        <http://mpii.de/yago/resource/Pulp_Fiction_%28film%29> ;
+    foaf:based_near <http://sws.geonames.org/6252001/> ;
+    foaf:page <http://www.imdb.com/title/tt0110912>,
+        <http://www.rottentomatoes.com/alias?type=imdbid&s=0110912> .
+
+lmdb_film_collection:3 a lmdb:film_collection ;
+    rdfs:label "AFI's 100 Years... 100 Movies (Film Collection)" ;
+    lmdb:film_collection_film_collectionid "3"^^xsd:int ;
+    lmdb:film_collection_name "AFI's 100 Years... 100 Movies" .
+
+lmdb_film_cut:5029 a lmdb:film_cut ;
+    rdfs:label "Film Cut #5029" ;
+    lmdb:film_cut_film_cutid "5029"^^xsd:int ;
+    lmdb:runtime "154" .
+
+lmdb_film_genre:4 a lmdb:film_genre ;
+    rdfs:label "Drama (Film Genre)" ;
+    lmdb:film_genre_film_genreid "4"^^xsd:int ;
+    lmdb:film_genre_name "Drama" .
+
+lmdb_producer:8134 a lmdb:producer ;
+    rdfs:label "Lawrence Bender (Producer)" ;
+    lmdb:producer_name "Lawrence Bender" ;
+    lmdb:producer_producerid "8134"^^xsd:int .
+
+lmdb_writer:11539 a lmdb:writer ;
+    rdfs:label "Quentin Tarantino (Writer)" ;
+    lmdb:writer_name "Quentin Tarantino" ;
+    lmdb:writer_writerid "11539"^^xsd:int .
+

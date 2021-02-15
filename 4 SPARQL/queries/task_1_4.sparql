@@ -1,0 +1,38 @@
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xml: <http://www.w3.org/XML/1998/namespace/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+PREFIX lmdb: <http://data.linkedmdb.org/movie/> 
+PREFIX lmdb_actor: <http://data.linkedmdb.org/actor/> 
+PREFIX lmdb_cinematographer: <http://data.linkedmdb.org/cinematographer/> 
+PREFIX lmdb_country: <http://data.linkedmdb.org/country/> 
+PREFIX lmdb_director: <http://data.linkedmdb.org/director/> 
+PREFIX lmdb_editor: <http://data.linkedmdb.org/editor/> 
+PREFIX lmdb_film: <http://data.linkedmdb.org/film/> 
+PREFIX lmdb_film_collection: <http://data.linkedmdb.org/film_collection/> 
+PREFIX lmdb_film_cut: <http://data.linkedmdb.org/film_cut/> 
+PREFIX lmdb_film_genre: <http://data.linkedmdb.org/film_genre/> 
+PREFIX lmdb_producer: <http://data.linkedmdb.org/producer/> 
+PREFIX lmdb_writer: <http://data.linkedmdb.org/writer/> 
+PREFIX myns: <http://myns.com/> 
+
+
+SELECT ?country_name (COUNT(DISTINCT ?film_uri) as ?comedy_count) ?million_people
+
+WHERE {
+    ?film_uri a lmdb:film ;
+        lmdb:genre lmdb_film_genre:71 ; # comedy
+        lmdb:country ?movie_coutry .
+    ?movie_coutry lmdb:country_name ?country_name ;
+    lmdb:country_population ?country_population .
+    BIND(xsd:integer(?country_population) / 1000000 AS ?million_people)
+        
+    
+}
+GROUP BY ?country_name ?million_people
+ORDER BY DESC(?comedy_count)
+LIMIT 10

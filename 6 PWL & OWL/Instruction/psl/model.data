@@ -1,0 +1,26 @@
+predicates:
+   TitleSim/2:
+      - closed
+      - types:
+         - UniqueStringID
+         - UniqueStringID
+   YearsSim/2:
+      - closed
+      - types:
+         - UniqueStringID
+         - UniqueStringID
+   SamePaper/2:
+      - open
+      - types:
+         - UniqueStringID
+         - UniqueStringID
+
+observations:
+   TitleSim:  ./title_sim_obs.txt
+   YearsSim:  ./years_sim_obs.txt
+
+targets:
+   SamePaper: ./same_paper_targets.txt
+
+truth:
+   SamePaper: ./same_paper_truth.txt

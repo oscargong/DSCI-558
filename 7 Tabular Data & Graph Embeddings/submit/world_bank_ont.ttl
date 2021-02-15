@@ -1,0 +1,66 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> . 
+@prefix owl:    <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix dct:    <http://purl.org/dc/terms/> .
+@prefix foaf:   <http://xmlns.com/foaf/0.1/> .
+
+@prefix qb: <http://purl.org/linked-data/cube#> 
+
+@prefix sdmx-concept:   <http://purl.org/linked-data/sdmx/2009/concept#> .
+@prefix sdmx-dimension: <http://purl.org/linked-data/sdmx/2009/dimension#> .
+@prefix sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#> .
+@prefix sdmx-measure:   <http://purl.org/linked-data/sdmx/2009/measure#> .
+@prefix sdmx-subject:   <http://purl.org/linked-data/sdmx/2009/subject#> .
+
+@prefix my_ns: <http://dsci558.org/myfakenamespace#> 
+
+# Data Structure
+my_ns:population a qb:DataStructureDefinition;
+    qb:component 
+    # The dimensions 
+    [ qb:dimension my_ns:refArea;   qb:order 1 ],  # order: indicates a priority order for the components of sets with this structure, used to guide presentations - lower order numbers come before higher numbers, un-numbered components come last"
+    [ qb:dimension my_ns:refPeriod; qb:order 2] ;
+
+    # The measure(s) 
+    qb:component 
+    [ qb:measure my_ns:measure_population;          qb:order 1],
+    [ qb:measure my_ns:measure_malePopulation;      qb:order 2],    
+    [ qb:measure my_ns:measure_femalePopulation;    qb:order 3].
+
+    # I did not see the necessity of using an attribute of this task.
+    # The attributes : 
+    # qb:component [ qb:attribute sdmx-attribute:unitMeasure; # The unit in which the data values are measure
+    #              qb:componentRequired "false"^^xsd:boolean; 
+    #                qb:componentAttachment qb:DataSet; ] ;
+
+# Components
+# -> all dimensions, attributes and measures are components
+# only two dimensions here, gender as a measure property
+my_ns:refPeriod a rdf:Property, qb:DimensionProperty; 
+    rdfs:label "Year"@en; 
+    rdfs:subPropertyOf sdmx-dimension:refPeriod; # The period of time or point in time to which the measured observation refers.
+    rdfs:range <http://dbpedia.org/page/Year>; 
+    qb:concept sdmx-concept:refPeriod . 
+
+my_ns:refArea a rdf:Property, qb:DimensionProperty; 
+    rdfs:label "Country"@en; 
+    rdfs:subPropertyOf sdmx-dimension:refArea; # The country or geographic area to which the measured statistical phenomenon relates.
+    rdfs:range admingeo:UnitaryAuthority; 
+    qb:concept sdmx-concept:refArea .
+
+my_ns:measure_population  a rdf:Property, qb:MeasureProperty;
+    rdfs:label "Population, total"@en;
+    rdfs:subPropertyOf sdmx-measure:obsValue; # The value of a particular variable at a particular period.
+    rdfs:range xsd:integer .     
+
+my_ns:measure_malePopulation  a rdf:Property, qb:MeasureProperty;
+    rdfs:label "Population, male (% of total)"@en;
+    rdfs:subPropertyOf sdmx-measure:obsValue;
+    rdfs:range xsd:decimal . 
+
+my_ns:measure_femalePopulation  a rdf:Property, qb:MeasureProperty;
+    rdfs:label "Population, female (% of total)"@en;
+    rdfs:subPropertyOf sdmx-measure:obsValue;
+    rdfs:range xsd:decimal .     

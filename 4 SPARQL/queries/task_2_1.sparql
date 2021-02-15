@@ -1,0 +1,24 @@
+SELECT DISTINCT ?actor ?actorLabel ?DOB
+WHERE {
+  ?actor wdt:P106/wdt:P279* wd:Q33999 . # P:occupation/subClassOf O:actor
+  ?actor wdt:P106/wdt:P279* wd:Q639669 . # P:occupation/subClassOf O:musicians       
+  
+  ?actor p:P361 ?statement . # part of
+  ?statement ps:P361 ?band . # part of
+  ?statement pq:P580 ?starttime. 
+  ?statement pq:P582 ?endtime.
+  
+  ?band wdt:P31/wdt:P279* wd:Q2088357 ; # P:instance of / subclass of O:musical ensemble
+  
+  FILTER(YEAR(?starttime)>1960 && YEAR(?endtime)<2010)
+  
+  OPTIONAL {
+    ?actor wdt:P569 ?DOB .
+  }
+        
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  
+}
+
+LIMIT 10
+

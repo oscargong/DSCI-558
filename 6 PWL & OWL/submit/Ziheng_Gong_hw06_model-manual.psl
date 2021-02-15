@@ -1,0 +1,9 @@
+2: !SamePaper(A, B) ^2
+
+1 : TitleSim(A, B) & YearsSim(A, B) -> SamePaper(A, B) ^2
+1 : TitleSim(B, A) & YearsSim(B, A) -> SamePaper(B, A) ^2
+
+1 : TitleSim(A, B) -> SamePaper(A, B) ^2
+1 : TitleSim(B, A) -> SamePaper(B, A) ^2
+
+SamePaper(A, B) = SamePaper(B, A) . 

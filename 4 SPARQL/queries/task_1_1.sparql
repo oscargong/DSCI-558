@@ -1,0 +1,25 @@
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xml: <http://www.w3.org/XML/1998/namespace/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+PREFIX lmdb: <http://data.linkedmdb.org/movie/>
+PREFIX lmdb_actor: <http://data.linkedmdb.org/actor/>
+PREFIX lmdb_cinematographer: <http://data.linkedmdb.org/cinematographer/>
+PREFIX lmdb_country: <http://data.linkedmdb.org/country/>
+
+
+SELECT DISTINCT ?actor_name ?movie_name
+WHERE {
+    ?movie a lmdb:film ;
+    	lmdb:actor/lmdb:actor_name ?actor_name ;
+        dcterms:title ?movie_name .
+    FILTER regex(?actor_name, "^T")
+}
+
+LIMIT 10
+
+

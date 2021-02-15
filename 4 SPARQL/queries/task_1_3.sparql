@@ -1,0 +1,47 @@
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xml: <http://www.w3.org/XML/1998/namespace/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+PREFIX lmdb: <http://data.linkedmdb.org/movie/> 
+PREFIX lmdb_actor: <http://data.linkedmdb.org/actor/> 
+PREFIX lmdb_cinematographer: <http://data.linkedmdb.org/cinematographer/> 
+PREFIX lmdb_country: <http://data.linkedmdb.org/country/> 
+PREFIX lmdb_director: <http://data.linkedmdb.org/director/> 
+PREFIX lmdb_editor: <http://data.linkedmdb.org/editor/> 
+PREFIX lmdb_film: <http://data.linkedmdb.org/film/> 
+PREFIX lmdb_film_collection: <http://data.linkedmdb.org/film_collection/> 
+PREFIX lmdb_film_cut: <http://data.linkedmdb.org/film_cut/> 
+PREFIX lmdb_film_genre: <http://data.linkedmdb.org/film_genre/> 
+PREFIX lmdb_producer: <http://data.linkedmdb.org/producer/> 
+PREFIX lmdb_writer: <http://data.linkedmdb.org/writer/> 
+
+SELECT ?actor_name ?director_name ?count
+
+WHERE {
+
+    {
+        SELECT ?actor_uri ?film_director (COUNT(?film) AS ?count)
+
+        WHERE {
+            ?actor_uri a lmdb:actor ;
+                lmdb:actor_name ?actor_name .
+            ?film a lmdb:film ;
+                lmdb:actor ?actor_uri ; # film featured the actor
+                lmdb:director ?film_director .
+            ?film_director lmdb:director_name ?director_name .
+            FILTER (?actor_name != ?director_name)
+        }
+
+        GROUP BY ?actor_uri ?film_director
+    HAVING (?count > 18)
+    }
+    ?actor_uri lmdb:actor_name ?actor_name .
+    ?film_director lmdb:director_name ?director_name .   
+
+}
+
+LIMIT 10

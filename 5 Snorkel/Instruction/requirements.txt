@@ -1,0 +1,16 @@
+scipy==1.2.1
+numpy
+spacy
+pandas
+matplotlib
+ujson
+requests
+bs4
+future
+lxml
+numba
+numbskull
+sqlalchemy
+treedlib
+torch
+nltk

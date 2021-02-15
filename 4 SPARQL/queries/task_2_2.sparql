@@ -1,0 +1,20 @@
+SELECT ?film ?name
+
+WHERE {
+    {
+        SELECT ?film (COUNT(?cast_member) AS ?num) 
+        WHERE {
+            ?film wdt:P31 wd:Q11424 ; # instance of ; film
+                wdt:P161 ?cast_member .   # cast member
+        
+            ?cast_member p:P1411 ?statement . # nominated for
+            ?statement ps:P1411 wd:Q103916 .  # nominated for ; Academy Award for Best Actor
+            ?statement pq:P585 ?nom_time.  # point in time
+            FILTER (YEAR(?nom_time) > 2000).
+        }
+        GROUP BY ?film
+        HAVING (?num >= 4)
+    }
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en" .
+                           ?film rdfs:label ?name .}
+}

@@ -1,0 +1,46 @@
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xml: <http://www.w3.org/XML/1998/namespace/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+PREFIX lmdb: <http://data.linkedmdb.org/movie/> 
+PREFIX lmdb_actor: <http://data.linkedmdb.org/actor/> 
+PREFIX lmdb_cinematographer: <http://data.linkedmdb.org/cinematographer/> 
+PREFIX lmdb_country: <http://data.linkedmdb.org/country/> 
+PREFIX lmdb_director: <http://data.linkedmdb.org/director/> 
+PREFIX lmdb_editor: <http://data.linkedmdb.org/editor/> 
+PREFIX lmdb_film: <http://data.linkedmdb.org/film/> 
+PREFIX lmdb_film_collection: <http://data.linkedmdb.org/film_collection/> 
+PREFIX lmdb_film_cut: <http://data.linkedmdb.org/film_cut/> 
+PREFIX lmdb_film_genre: <http://data.linkedmdb.org/film_genre/> 
+PREFIX lmdb_producer: <http://data.linkedmdb.org/producer/> 
+PREFIX lmdb_writer: <http://data.linkedmdb.org/writer/> 
+PREFIX myns: <http://myns.com/> 
+PREFIX dbo:	<http://dbpedia.org/ontology/> 
+prefix dbp:	<http://dbpedia.org/property/> 
+
+
+SELECT DISTINCT ?actor_name ?birthDate
+WHERE {
+    service <http://dbpedia.org/sparql> {
+        SELECT DISTINCT ?actor_DB_uri ?birthDate ?gender ?DBname
+        WHERE {
+            ?actor_DB_uri a dbo:Actor ;
+                    foaf:gender ?gender ;
+                    foaf:name ?DBname ;
+                    dbp:birthDate ?birthDate ;
+        }    
+    }
+    BIND(YEAR(?birthDate) as ?birthYear)
+    FILTER(?birthYear > 1970 && ?birthYear < 1980 )
+    FILTER(REGEX(?gender,"female"))
+    
+    ?lmdb_actor a lmdb:actor ;
+        lmdb:actor_name ?actor_name ;
+        owl:sameAs ?actor_DB_uri .
+}
+
+LIMIT 10

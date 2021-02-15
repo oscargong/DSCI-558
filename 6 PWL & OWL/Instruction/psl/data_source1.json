@@ -1,0 +1,7144 @@
+[
+    {
+        "id": "CcMp9oAv4aPM",
+        "title": "Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies",
+        "authors": [
+            "L Gravano",
+            "H Garcia-Molina"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "Ysrl0nUcqHLl",
+        "title": "A New SQL-like Operator for Mining Association Rules",
+        "authors": [
+            "R Meo",
+            "G Psaila",
+            "S Ceri"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "uRLNLAgFZ5ma",
+        "title": "Electronic Commerce: Tutorial",
+        "authors": [
+            "N Adam",
+            "Y Yesha"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "TmFvxIBFBD2H",
+        "title": "Relational data sharing in peer-based data management systems",
+        "authors": [
+            "B Ooi",
+            "Y Shu",
+            "K Tan"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2003"
+    },
+    {
+        "id": "tbfeBjoDeAVA",
+        "title": "Describing and Using Query Capabilities of Heterogeneous Sources",
+        "authors": [
+            "V Vassalos",
+            "Y Papakonstantinou"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "Z2V9pZRnmMOk",
+        "title": "Exploratory Mining via Constrained Frequent Set Queries",
+        "authors": [
+            "R Ng",
+            "L Lakshmanan",
+            "J Han",
+            "T Mah"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "KJH27g4PqQdN",
+        "title": "Fact: A Learning Based Web Query Processing System",
+        "authors": [
+            "S Chen",
+            "Y Diao",
+            "H Lu",
+            "Z Tian"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "Sf5YhBmJ5qBJ",
+        "title": "CachePortal II: Acceleration of Very Large Scale Data Center-Hosted Database-driven Web Applications",
+        "authors": [
+            "W Li",
+            "O Po",
+            "W Hsiung",
+            "K Candan",
+            "D Agrawal",
+            "Y Akca",
+            "K Taniguchi"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "lhN7yINe9P9k",
+        "title": "Formal semantics and analysis of object queries",
+        "authors": [
+            "G Bierman"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "4GjvXAjoboYf",
+        "title": "Visual COKO: a debugger for query optimizer development",
+        "authors": [
+            "D Abadi",
+            "M Cherniack"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "hlYV8wvpa4vd",
+        "title": "Providing Dynamic Security Control in a Federated Database",
+        "authors": [
+            "N Idris",
+            "W Gray",
+            "R Churchhouse"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "XRNBC8rzWiMu",
+        "title": "The Database Research Group at ETH Zurich",
+        "authors": [
+            "M Norrie",
+            "S Blott",
+            "H Schek",
+            "G Weikum"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1994"
+    },
+    {
+        "id": "mdeH7VM1SR4Y",
+        "title": "Gigascope: A Stream Database for Network Applications",
+        "authors": [
+            "C Cranor",
+            "T Johnson",
+            "O Spatscheck",
+            "V Shkapenyuk"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "sjUQ0HT6dpSs",
+        "title": "Managing Memory for Real-Time Queries",
+        "authors": [
+            "H Pang",
+            "M Carey",
+            "M Livny"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "SzUlFitSkZ5D",
+        "title": "The ORES Temporal Database Management System",
+        "authors": [
+            "B Theodoulidis",
+            "A Ait-Braham",
+            "G Andrianopoulos",
+            "J Chaudhary",
+            "G Karvelis",
+            "S Sou"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "B4HCB4RJzlWz",
+        "title": "DataBlitz Storage Manager: Main Memory Database Performance for Critical Applications",
+        "authors": [
+            "J Baulier",
+            "P Bohannon",
+            "S Gogate",
+            "C Gupta",
+            "S Haldar",
+            "S Joshi",
+            "A Khivesera",
+            "H Korth",
+            "P McIlroy",
+            "J Miller",
+            "P Narayan",
+            "M Nemeth",
+            "R Rastogi",
+            "S Seshadri",
+            "A Silberschatz",
+            "S Sudarshan",
+            "M Wilder",
+            "C Wei"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "jbXGeFrXN6Tu",
+        "title": "Progressive Merge Join: A Generic and Non-blocking Sort-based Join Algorithm",
+        "authors": [
+            "J Dittrich",
+            "B Seeger",
+            "D Taylor",
+            "P Widmayer"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "dOErLVNXkzGe",
+        "title": "Tree pattern query minimization",
+        "authors": [
+            "S Amer-Yahia",
+            "S Cho",
+            "L Lakshmanan",
+            "D Srivastava"
+        ],
+        "conference": "VLDB J.",
+        "year": "2002"
+    },
+    {
+        "id": "NAi37xonhL8o",
+        "title": "Indexing and Querying XML Data for Regular Path Expressions",
+        "authors": [
+            "Q Li",
+            "B Moon"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "gzVW3LJM9ijy",
+        "title": "MultiMediaMiner: A System Prototype for Multimedia Data Mining",
+        "authors": [
+            "O Za\u00efane",
+            "J Han",
+            "Z Li",
+            "S Chee",
+            "J Chiang"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "oUbAExRW3bIX",
+        "title": "Parameterized Complexity for the Database Theorist",
+        "authors": [
+            "M Grohe"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2002"
+    },
+    {
+        "id": "Yz0bQ4RuXgUb",
+        "title": "Mobile Computing and Databases: Anything New?",
+        "authors": [
+            "M Dunham",
+            "A Helal"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "NgZzCJEVUXgK",
+        "title": "DOMINO: Databases fOr MovINg Objects tracking",
+        "authors": [
+            "O Wolfson",
+            "A Sistla",
+            "B Xu",
+            "J Zhou",
+            "S Chamberlain"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "F81wRMRqN4a2",
+        "title": "Adaptive Precision Setting for Cached Approximate Values",
+        "authors": [
+            "C Olston",
+            "B Loo",
+            "J Widom"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "o5rswKBJRQgt",
+        "title": "SELF-SERV: A Platform for Rapid Composition of Web Services in a Peer-to-Peer Environment",
+        "authors": [
+            "Q Sheng",
+            "B Benatallah",
+            "M Dumas",
+            "E Mak"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "gvOHJGm5idTY",
+        "title": "Foundations of Preferences in Database Systems",
+        "authors": [
+            "W Kie\u00dfling"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "ZpLsvaBtIEO8",
+        "title": "The Generalized Pre-Grouping Transformation: Aggregate-Query Optimization in the Presence of Dependencies",
+        "authors": [
+            "A Tsois",
+            "T Sellis"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "rVVdfDVleO96",
+        "title": "Optimizing Queries on Files",
+        "authors": [
+            "M Consens",
+            "T Milo"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "BsDGGlNWg8sf",
+        "title": "Much Ado About Shared-Nothing",
+        "authors": [
+            "M Norman",
+            "T Zurek",
+            "P Thanisch"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1996"
+    },
+    {
+        "id": "w5oJaDKyegdW",
+        "title": "Towards a Richer Web Object Model",
+        "authors": [
+            "F Manola"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1998"
+    },
+    {
+        "id": "dcHmmpoUtvvd",
+        "title": "Integrating Reliable Memory in Databases",
+        "authors": [
+            "W Ng",
+            "P Chen"
+        ],
+        "conference": "VLDB J.",
+        "year": "1998"
+    },
+    {
+        "id": "49QksjsKn9UB",
+        "title": "Implementing Crash Recovery in QuickStore: A Performance Study",
+        "authors": [
+            "S White",
+            "D DeWitt"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "SNYy6fzcvkPC",
+        "title": "Efficient Mining of XML Query Patterns for Caching",
+        "authors": [
+            "L Yang",
+            "M Lee",
+            "W Hsu"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "s65RdvEVsvlM",
+        "title": "Deadlock Detection in Distributed Database Systems: A New Algorithm and a Comparative Performance Analysis",
+        "authors": [
+            "N Krivokapic",
+            "A Kemper",
+            "E Gudes"
+        ],
+        "conference": "VLDB J.",
+        "year": "1999"
+    },
+    {
+        "id": "8pAdiVTAW7g4",
+        "title": "Fast Computation of Sparse Datacubes",
+        "authors": [
+            "K Ross",
+            "D Srivastava"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "pAawlxc4uibx",
+        "title": "Constructing and integrating data-centric Web Applications: Methods, Tools, and Techniques",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2003"
+    },
+    {
+        "id": "MeNnYhhHq0a2",
+        "title": "Progress on HPCC and NII",
+        "authors": [
+            "M Winslett"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1994"
+    },
+    {
+        "id": "gSnitqm7uSGT",
+        "title": "An Interpolated Volume Data Model",
+        "authors": [
+            "T Wang",
+            "S Santini",
+            "A Gupta"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "UqDo8NqmcNRi",
+        "title": "Star-Cubing: Computing Iceberg Cubes by Top-Down and Bottom-Up Integration",
+        "authors": [
+            "D Xin",
+            "J Han",
+            "X Li",
+            "B Wah"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "v3Td4WVlkeUO",
+        "title": "SQLJ Part 0, Now Known as SQL/OLB (Object-Language Bindings)",
+        "authors": [
+            "A Eisenberg",
+            "J Melton"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1998"
+    },
+    {
+        "id": "qlv0vguA2EGI",
+        "title": "Integrating a Structured-Text Retrieval System with an Object-Oriented Database System",
+        "authors": [
+            "T Yan",
+            "J Annevelink"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "TUWwZMotXEH5",
+        "title": "Fundamental Techniques for Order Optimization",
+        "authors": [
+            "D Simmen",
+            "E Shekita",
+            "T Malkemus"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "bQS8UHYusoof",
+        "title": "Exploiting Main Memory DBMS Features to Improve Real-Time Concurrency Control Protocols",
+        "authors": [
+            "\u00d6 Ulusoy",
+            "A Buchmann"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1996"
+    },
+    {
+        "id": "oIijnoIYEuL0",
+        "title": "Temporal FDs on Complex Objects",
+        "authors": [
+            "J Wijsen"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1999"
+    },
+    {
+        "id": "c7gyrcCPj31O",
+        "title": "Data Morphing: An Adaptive, Cache-Conscious Storage Technique",
+        "authors": [
+            "R Hankins",
+            "J Patel"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "CrQ9WpAikROe",
+        "title": "Using Schematically Heterogeneous Structures",
+        "authors": [
+            "R Miller"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "Ddp51bX5We1k",
+        "title": "Monitoring Business Processes through Event Correlation based on Dependency Model",
+        "authors": [
+            "A Adi",
+            "D Botzer",
+            "O Etzion",
+            "T Yatzkar-Haham"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "zUt8sEfLY5jY",
+        "title": "Are quorums an alternative for data replication?",
+        "authors": [
+            "R Jim\u00e9nez-Peris",
+            "M Pati\u00f1o-Mart\u00ednez",
+            "G Alonso",
+            "B Kemme"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "2003"
+    },
+    {
+        "id": "4nfxB1fIVdxy",
+        "title": "Database Patchwork on the Internet",
+        "authors": [
+            "R Braumandl",
+            "A Kemper",
+            "D Kossmann"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "UKjIJ3Kquoj7",
+        "title": "OPT++: An Object-Oriented Implementation for Extensible Database Query Optimization",
+        "authors": [
+            "N Kabra",
+            "D DeWitt"
+        ],
+        "conference": "VLDB J.",
+        "year": "1999"
+    },
+    {
+        "id": "e9jQ0V8YWbbm",
+        "title": "Oracle Rdb's Record Caching Model",
+        "authors": [
+            "R Anderson",
+            "G Arun",
+            "R Frank"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "H89nLQdbE2oZ",
+        "title": "Mapping Adaptation under Evolving Schemas",
+        "authors": [
+            "Y Velegrakis",
+            "R Miller",
+            "L Popa"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "tA6z8M6Yu30D",
+        "title": "Efficiently Mining Long Patterns from Databases",
+        "authors": [
+            "R Jr."
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "FWMDixD94UZh",
+        "title": "A Flexible and Recoverable Client/Server Database Event Notification System",
+        "authors": [
+            "E Hanson",
+            "I Chen",
+            "R Dastur",
+            "K Engel",
+            "V Ramaswamy",
+            "W Tan",
+            "C Xu"
+        ],
+        "conference": "VLDB J.",
+        "year": "1998"
+    },
+    {
+        "id": "ASS0i9xjXtjF",
+        "title": "Dynamic Service Matchmaking Among Agents in Open Information Environments",
+        "authors": [
+            "K Sycara",
+            "M Klusch",
+            "S Widoff",
+            "J Lu"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1999"
+    },
+    {
+        "id": "HBCKH0OfS9AG",
+        "title": "Managing Distributed Workspaces with Active XML",
+        "authors": [
+            "S Abiteboul",
+            "J Baumgarten",
+            "A Bonifati",
+            "G Cobena",
+            "C Cremarenco",
+            "F Dragan",
+            "I Manolescu",
+            "T Milo",
+            "N Preda"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "QcjPvWfJib5a",
+        "title": "Flexible and scalable digital library search",
+        "authors": [
+            "H Blok",
+            "M Windhouwer",
+            "R Zwol",
+            "M Petkovic",
+            "P Apers",
+            "M Kersten",
+            "W Jonker"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "KGwSht6sXM5W",
+        "title": "The Ecobase Project: Database and Web Technologies for Environmental Information Systems",
+        "authors": [
+            "A Tanaka",
+            "P Valduriez"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2001"
+    },
+    {
+        "id": "wdrL94rdbQ16",
+        "title": "Bifocal Sampling for Skew-Resistant Join Size Estimation",
+        "authors": [
+            "S Ganguly",
+            "P Gibbons",
+            "Y Matias",
+            "A Silberschatz"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "gmqpNHCMCBdr",
+        "title": "Issues in Developing Very Large Data Warehouses",
+        "authors": [
+            "L Do",
+            "P Drew",
+            "W Jin",
+            "V Jumani",
+            "D Rossum"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "rV5RDdHDtuxT",
+        "title": "XML-Based Information Mediation with MIX",
+        "authors": [
+            "C Baru",
+            "A Gupta",
+            "B Lud\u00e4scher",
+            "R Marciano",
+            "Y Papakonstantinou",
+            "P Velikhov",
+            "V Chu"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "kO3JtTHINGSf",
+        "title": "The Impact of Database Research on Industrial Products (Panel Summary)",
+        "authors": [
+            "D Barbar\u00e1",
+            "J Blakeley",
+            "D Fishman",
+            "D Lomet",
+            "M Stonebraker"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1994"
+    },
+    {
+        "id": "8RRzwA4TpeBq",
+        "title": "Answering XML Queries on Heterogeneous Data Sources",
+        "authors": [
+            "I Manolescu",
+            "D Florescu",
+            "D Kossmann"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "ebT0UReyImsY",
+        "title": "An Adaptive Hybrid Server Architecture for Client Caching ODBMSs",
+        "authors": [
+            "K Voruganti",
+            "M \u00d6zsu",
+            "R Unrau"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "PqQztjpj9J36",
+        "title": "Automating physical database design in a parallel database",
+        "authors": [
+            "J Rao",
+            "C Zhang",
+            "N Megiddo",
+            "G Lohman"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "n16VIy8j6LV1",
+        "title": "An Access Control Model Supporting Periodicity Constraints and Temporal Reasoning",
+        "authors": [
+            "E Bertino",
+            "C Bettini",
+            "E Ferrari",
+            "P Samarati"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1998"
+    },
+    {
+        "id": "vna9KDwiUyVq",
+        "title": "BOAT-Optimistic Decision Tree Construction",
+        "authors": [
+            "J Gehrke",
+            "V Ganti",
+            "R Ramakrishnan",
+            "W Loh"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "JwRMhn4nVuzT",
+        "title": "Watermarking Relational Databases",
+        "authors": [
+            "R Agrawal",
+            "J Kiernan"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "0TXxM0MWFVgA",
+        "title": "DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases",
+        "authors": [
+            "R Goldman",
+            "J Widom"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "bIqvcTGbLIXp",
+        "title": "Hyper-Programming in Java",
+        "authors": [
+            "E Zirintsis",
+            "G Kirby",
+            "R Morrison"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "sc3YFuRx6uRt",
+        "title": "Dimensionality Reduction for Similarity Searching in Dynamic Databases",
+        "authors": [
+            "K Kanth",
+            "D Agrawal",
+            "A Singh"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "dmZmaqBmClm8",
+        "title": "A Brief Survey of Web Data Extraction Tools",
+        "authors": [
+            "A Laender",
+            "B Ribeiro-Neto",
+            "A Silva",
+            "J Teixeira"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2002"
+    },
+    {
+        "id": "xUf9uuRzwQRn",
+        "title": "Electronic Market: The Roadmap for University Libraries and Members to Survive in the Information Jungle",
+        "authors": [
+            "M Christoffel",
+            "S Pulkowski",
+            "B Schmitt",
+            "P Lockemann"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1998"
+    },
+    {
+        "id": "pefJVDju2cI1",
+        "title": "Scalable Sweeping-Based Spatial Join",
+        "authors": [
+            "L Arge",
+            "O Procopiuc",
+            "S Ramaswamy",
+            "T Suel",
+            "J Vitter"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "oYmVrOWy04Lw",
+        "title": "APEX: an adaptive path index for XML data",
+        "authors": [
+            "C Chung",
+            "J Min",
+            "K Shim"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "Rsb9NI6bVm6X",
+        "title": "Recovery Protocols for Shared Memory Database Systems",
+        "authors": [
+            "L Molesky",
+            "K Ramamritham"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "UuL89nwD8XlJ",
+        "title": "Tutorial: Designing an Ultra Highly Available DBMS",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2000"
+    },
+    {
+        "id": "cI4EOB5qy50T",
+        "title": "On the Semantics of ``Now'' in Databases",
+        "authors": [
+            "J Clifford",
+            "C Dyreson",
+            "T Isakowitz",
+            "C Jensen",
+            "R Snodgrass"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1997"
+    },
+    {
+        "id": "A11VBKvbXodn",
+        "title": "DBXplorer: enabling keyword search over relational databases",
+        "authors": [
+            "S Agrawal",
+            "S Chaudhuri",
+            "G Das"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "0X12akDlcFcb",
+        "title": "Adaptive Data Broadcast in Hybrid Networks",
+        "authors": [
+            "K Stathatos",
+            "N Roussopoulos",
+            "J Baras"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "IoYmHy4Z6hRw",
+        "title": "Re-designing Distance Functions and Distance-Based Applications for High Dimensional Data",
+        "authors": [
+            "C Aggarwal"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2001"
+    },
+    {
+        "id": "jSltILMMd6Po",
+        "title": "Database Research at Columbia University",
+        "authors": [
+            "S Chang",
+            "L Gravano",
+            "G Kaiser",
+            "K Ross",
+            "S Stolfo"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1998"
+    },
+    {
+        "id": "ugG07DB5R4jL",
+        "title": "Integrating and customizing heterogeneous e-commerce applications",
+        "authors": [
+            "A Eyal",
+            "T Milo"
+        ],
+        "conference": "VLDB J.",
+        "year": "2001"
+    },
+    {
+        "id": "oL0JPeFgLDKD",
+        "title": "Networked Data Management Design Points",
+        "authors": [
+            "J Hamilton"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "XYzB6YrdgV27",
+        "title": "Searching for dependencies at multiple abstraction levels",
+        "authors": [
+            "T Calders",
+            "R Ng",
+            "J Wijsen"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "2002"
+    },
+    {
+        "id": "T2hybhspWY4k",
+        "title": "The WorlInfo Assistant: Spatio-Temporal Information Integration on the Web",
+        "authors": [
+            "J Ambite",
+            "C Knoblock",
+            "M Kolahdouzan",
+            "M Muslea",
+            "C Shahabi",
+            "S Thakkar"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "wb3BCAzZYtW6",
+        "title": "MindReader: Querying Databases Through Multiple Examples",
+        "authors": [
+            "Y Ishikawa",
+            "R Subramanya",
+            "C Faloutsos"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "kR72lMUaTdUb",
+        "title": "Database Research at Arizona State University",
+        "authors": [
+            "S Urban",
+            "S Dietrich",
+            "F Golshani"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1996"
+    },
+    {
+        "id": "jOXF0H2CzcHj",
+        "title": "SQLJ-Part 1: SQL Routines Using the Java Programming Language",
+        "authors": [
+            "A Eisenberg",
+            "J Melton"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1999"
+    },
+    {
+        "id": "mf2dsprsOlSn",
+        "title": "Multiway spatial joins",
+        "authors": [
+            "N Mamoulis",
+            "D Papadias"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "2001"
+    },
+    {
+        "id": "BbC0ETz9kpHY",
+        "title": "Continuous Queries over Data Streams",
+        "authors": [
+            "S Babu",
+            "J Widom"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2001"
+    },
+    {
+        "id": "ooUzTjTAfhUl",
+        "title": "Efficiently Supporting Ad Hoc Queries in Large Datasets of Time Sequences",
+        "authors": [
+            "F Korn",
+            "H Jagadish",
+            "C Faloutsos"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "QSOOgMwmf7oS",
+        "title": "Index Research: Forest or Trees? (Panel Abstract)",
+        "authors": [
+            "J Hellerstein"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "sDR3Sor9TcYR",
+        "title": "Quotient Cube: How to Summarize the Semantics of a Data Cube",
+        "authors": [
+            "L Lakshmanan",
+            "J Pei",
+            "J Han"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "iT4UWLeAFhsR",
+        "title": "Index Structures for Selective Dissemination of Information Under the Boolean Model",
+        "authors": [
+            "T Yan",
+            "H Garcia-Molina"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1994"
+    },
+    {
+        "id": "QCwRCBzsIZvt",
+        "title": "Geo/Environmental and Medical Data Management in the RasDaMan System",
+        "authors": [
+            "P Baumann",
+            "P Furtado",
+            "R Ritsch",
+            "N Widmann"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "GCnhw9JCd6j6",
+        "title": "Efficient Filtering of XML Documents for Selective Dissemination of Information",
+        "authors": [
+            "M Altinel",
+            "M Franklin"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "wSBRSr6r26MZ",
+        "title": "Data Mining in the Bioinformatics Domain",
+        "authors": [
+            "S Tsur"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "gMejVGfGS75R",
+        "title": "Locating Data Sources in Large Distributed Systems",
+        "authors": [
+            "L Galanis",
+            "Y Wang",
+            "S Jeffery",
+            "D DeWitt"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "IoaNSRiKeDip",
+        "title": "Illustra's Web DataBlade Module",
+        "authors": [
+            "J Gaffney"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1996"
+    },
+    {
+        "id": "IWqjtthD5qrr",
+        "title": "Capability Based Mediation in TSIMMIS",
+        "authors": [
+            "C Li",
+            "R Yerneni",
+            "V Vassalos",
+            "H Garcia-Molina",
+            "Y Papakonstantinou",
+            "J Ullman",
+            "M Valiveti"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "zfY5KxUkaeJv",
+        "title": "The STRIP Rule System For Efficiently Maintaining Derived Data",
+        "authors": [
+            "B Adelberg",
+            "H Garcia-Molina",
+            "J Widom"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "QAeYegH0SLdK",
+        "title": "Including Group-By in Query Optimization",
+        "authors": [
+            "S Chaudhuri",
+            "K Shim"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "kHBjmm7os0WQ",
+        "title": "The LHAM Log-Structured History Data Access Method",
+        "authors": [
+            "P Muth",
+            "P O'Neil",
+            "A Pick",
+            "G Weikum"
+        ],
+        "conference": "VLDB J.",
+        "year": "2000"
+    },
+    {
+        "id": "wx9SOWEiPTr0",
+        "title": "Influencing Database Language Standards",
+        "authors": [
+            "L Gallagher"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1994"
+    },
+    {
+        "id": "lQr8uwRsEbGo",
+        "title": "Application Servers and Associated Technologies",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2002"
+    },
+    {
+        "id": "wEhHp5BgsbDB",
+        "title": "Distributing a Search Tree Among a Growing Number of Processors",
+        "authors": [
+            "B Kr\u00f6ll",
+            "P Widmayer"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "QWhSg59pLp72",
+        "title": "PicoDBMS: Scaling down database techniques for the smartcard",
+        "authors": [
+            "P Pucheral",
+            "L Bouganim",
+            "P Valduriez",
+            "C Bobineau"
+        ],
+        "conference": "VLDB J.",
+        "year": "2001"
+    },
+    {
+        "id": "y0vu6vWCQSpG",
+        "title": "PicoDMBS: Scaling Down Database Techniques for the Smartcard",
+        "authors": [
+            "C Bobineau",
+            "L Bouganim",
+            "P Pucheral",
+            "P Valduriez"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "iPExf3qdtTSK",
+        "title": "NonStop SQL: Scalability and Availability for Decision Support",
+        "authors": [
+            "S Englert"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "gKBw3gsY90xS",
+        "title": "Workflow History Management",
+        "authors": [
+            "P Koksal",
+            "S Arpinar",
+            "A Dogac"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1998"
+    },
+    {
+        "id": "MABx8dh4xKeO",
+        "title": "Parametric Query Optimization for Linear and Piecewise Linear Cost Functions",
+        "authors": [
+            "A Hulgeri",
+            "S Sudarshan"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "hYdeIZcK6itS",
+        "title": "Improving Performance in Replicated Databases through Relaxed Coherency",
+        "authors": [
+            "R Gallersd\u00f6rfer",
+            "M Nicola"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "YAfhEcILIv37",
+        "title": "Automated Resolution of Semantic Heterogeneity in Multidatabases",
+        "authors": [
+            "M Bright",
+            "A Hurson",
+            "S Pakzad"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1994"
+    },
+    {
+        "id": "ww1xeovQfz0u",
+        "title": "Dynamic Multi-Resource Load Balancing in Parallel Database Systems",
+        "authors": [
+            "E Rahm",
+            "R Marek"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "UAcDvVEfDYZ9",
+        "title": "Parallel Query Scheduling and Optimization with Time- and Space-Shared Resources",
+        "authors": [
+            "M Garofalakis",
+            "Y Ioannidis"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "42A7YfFKx6B2",
+        "title": "Graphical Interaction with Heterogeneous Databases",
+        "authors": [
+            "T Catarci",
+            "G Santucci",
+            "J Cardiff"
+        ],
+        "conference": "VLDB J.",
+        "year": "1997"
+    },
+    {
+        "id": "zQBazxnrUTVx",
+        "title": "MiniCon: A scalable algorithm for answering queries using views",
+        "authors": [
+            "R Pottinger",
+            "A Halevy"
+        ],
+        "conference": "VLDB J.",
+        "year": "2001"
+    },
+    {
+        "id": "aDjwpsVmB1Zc",
+        "title": "Concept Based Design of Data Warehouses: The DWQ Demonstrators",
+        "authors": [
+            "M Jarke",
+            "C Quix",
+            "D Calvanese",
+            "M Lenzerini",
+            "E Franconi",
+            "S Ligoudistianos",
+            "P Vassiliadis",
+            "Y Vassiliou"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "rzi8HdvLA6CW",
+        "title": "Managing Intra-operator Parallelism in Parallel Database Systems",
+        "authors": [
+            "M Mehta",
+            "D DeWitt"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "4KOWe8ZvC2Zu",
+        "title": "An Introduction to Remy's Fast Polymorphic Record Projection",
+        "authors": [
+            "L Wong"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "Kc1WEuueUiUN",
+        "title": "Interviewing During a Tight Job Market",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2002"
+    },
+    {
+        "id": "VCxeMHMhXSQY",
+        "title": "Efficient algorithms for minimizing tree pattern queries",
+        "authors": [
+            "P Ramanan"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "TW7e9ow7OhyH",
+        "title": "Ratio Rules: A New Paradigm for Fast, Quantifiable Data Mining",
+        "authors": [
+            "F Korn",
+            "A Labrinidis",
+            "Y Kotidis",
+            "C Faloutsos"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "en2evJHwep2r",
+        "title": "Warping Indexes with Envelope Transforms for Query by Humming",
+        "authors": [
+            "Y Zhu",
+            "D Shasha"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "HFrjj0YjIb9I",
+        "title": "Facilitating Multimedia Database Exploration through Visual Interfaces and Perpetual Query Reformulations",
+        "authors": [
+            "W Li",
+            "K Candan",
+            "K Hirata",
+            "Y Hara"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "VkacZavYMIqc",
+        "title": "VisDB: A System for Visualizing Large Databases",
+        "authors": [
+            "D Keim",
+            "H Kriegel"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "iUXrlY56Vtqv",
+        "title": "Partition Selection Policies in Object Database Garbage Collection",
+        "authors": [
+            "J Cook",
+            "A Wolf",
+            "B Zorn"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "idCjgQrt9c1P",
+        "title": "An Axiomatic Model of Dynamic Schema Evolution in Objectbase Systems",
+        "authors": [
+            "R Peters",
+            "M \u00d6zsu"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1997"
+    },
+    {
+        "id": "YtrSIQXgFmbr",
+        "title": "Historical Queries Along Multiple Lines of Time Evolution",
+        "authors": [
+            "G Landau",
+            "J Schmidt",
+            "V Tsotras"
+        ],
+        "conference": "VLDB J.",
+        "year": "1995"
+    },
+    {
+        "id": "cWKTYuwMyVhU",
+        "title": "SQL/CLI - A New Binding Style for SQL",
+        "authors": [
+            "M Venkatrao",
+            "M Pizzo"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "wqfs68YbGsSv",
+        "title": "Multi-Dimensional Clustering: A New Data Layout Scheme in DB2",
+        "authors": [
+            "S Padmanabhan",
+            "B Bhattacharjee",
+            "T Malkemus",
+            "L Cranston",
+            "M Huras"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "q9jkq6VvIHCX",
+        "title": "High-Concurrency Locking in R-Trees",
+        "authors": [
+            "M Kornacker",
+            "D Banks"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "CLMmqZ2YzeYt",
+        "title": "Distributed Top-K Monitoring",
+        "authors": [
+            "B Babcock",
+            "C Olston"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "dkgJmqSBZkI7",
+        "title": "Client-Server Paradise",
+        "authors": [
+            "D DeWitt",
+            "N Kabra",
+            "J Luo",
+            "J Patel",
+            "J Yu"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "I5ZQtqloIyzd",
+        "title": "Groupwise Processing of Relational Queries",
+        "authors": [
+            "D Chatziantoniou",
+            "K Ross"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "GpxyZbSCBucF",
+        "title": "Storage Estimation for Multidimensional Aggregates in the Presence of Hierarchies",
+        "authors": [
+            "A Shukla",
+            "P Deshpande",
+            "J Naughton",
+            "K Ramasamy"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "rzauCiOeicRa",
+        "title": "Probabilistic object bases",
+        "authors": [
+            "T Eiter",
+            "J Lu",
+            "T Lukasiewicz",
+            "V Subrahmanian"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "2001"
+    },
+    {
+        "id": "eotsw6zsmzU9",
+        "title": "Self-tuning Database Technology and Information Services: from Wishful Thinking to Viable Engineering",
+        "authors": [
+            "G Weikum",
+            "A M\u00f6nkeberg",
+            "C Hasse",
+            "P Zabback"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "HYltFx67OWw8",
+        "title": "Supporting Procedural Constructs in SQL Compilers",
+        "authors": [
+            "N Mattos"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "KxLdD68RM5Sh",
+        "title": "Wave-Indices: Indexing Evolving Databases",
+        "authors": [
+            "N Shivakumar",
+            "H Garcia-Molina"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "UZWm50h5tjwJ",
+        "title": "Binding Propagation in Disjunctive Databases",
+        "authors": [
+            "S Greco"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "O9geMwihHdbU",
+        "title": "WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases",
+        "authors": [
+            "G Sheikholeslami",
+            "S Chatterjee",
+            "A Zhang"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "axAq5uF3BbWG",
+        "title": "Internet Traffic Warehouse",
+        "authors": [
+            "C Chen",
+            "M Cochinwala",
+            "C Petrone",
+            "M Pucci",
+            "S Samtani",
+            "P Santa",
+            "M Mesiti"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "PxnpMv5rZtee",
+        "title": "Overview of the STanford Real-time Information Processor (STRIP)",
+        "authors": [
+            "B Adelberg",
+            "B Kao",
+            "H Garcia-Molina"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1996"
+    },
+    {
+        "id": "B9vE0MxaeU00",
+        "title": "Winnowing: Local Algorithms for Document Fingerprinting",
+        "authors": [
+            "S Schleimer",
+            "D Wilkerson",
+            "A Aiken"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "8EgWbamQQoeY",
+        "title": "A survey of approaches to automatic schema matching",
+        "authors": [
+            "E Rahm",
+            "P Bernstein"
+        ],
+        "conference": "VLDB J.",
+        "year": "2001"
+    },
+    {
+        "id": "zdHBCF5CYqWk",
+        "title": "POESIA: An ontological workflow approach for composing Web services in agriculture",
+        "authors": [
+            "R Fileto",
+            "L Liu",
+            "C Pu",
+            "E Assad",
+            "C Medeiros"
+        ],
+        "conference": "VLDB J.",
+        "year": "2003"
+    },
+    {
+        "id": "Ds8lCFqPf7IA",
+        "title": "The ADABAS Buffer Pool Manager",
+        "authors": [
+            "H Sch\u00f6ning"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "DJ2DBMu1C74g",
+        "title": "The InfoSleuth Project",
+        "authors": [
+            "R Jr.",
+            "W Bohrer",
+            "R Brice",
+            "A Cichocki",
+            "J Fowler",
+            "A Helal",
+            "V Kashyap",
+            "T Ksiezyk",
+            "G Martin",
+            "M Nodine",
+            "M Rashid",
+            "M Rusinkiewicz",
+            "R Shea",
+            "C Unnikrishnan",
+            "A Unruh",
+            "D Woelk"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "mP4Gpt86ZBrt",
+        "title": "Optimizing Result Prefetching in Web Search Engines with Segmented Indices",
+        "authors": [
+            "R Lempel",
+            "S Moran"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "Ajog4B4baF6j",
+        "title": "XXL - A Library Approach to Supporting Efficient Implementations of Advanced Database Queries",
+        "authors": [
+            "J Bercken",
+            "B Blohsfeld",
+            "J Dittrich",
+            "J Kr\u00e4mer",
+            "T Sch\u00e4fer",
+            "M Schneider",
+            "B Seeger"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "VCLkQk5y49g5",
+        "title": "A Framework for Expressing and Combining Preferences",
+        "authors": [
+            "R Agrawal",
+            "E Wimmers"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "x4031yWdMUAd",
+        "title": "METU Interoperable Database System",
+        "authors": [
+            "A Dogac",
+            "C Dengi",
+            "E Kilic",
+            "G \u00d6zhan",
+            "F Ozcan",
+            "S Nural",
+            "C Evrendilek",
+            "U Halici",
+            "I Arpinar",
+            "P Koksal",
+            "N Kesim",
+            "S Mancuhan"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "znq4zEnz6mqH",
+        "title": "Research and Practice in Federated Information Systems, Report of the EFIS '2000 International Workshop",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2000"
+    },
+    {
+        "id": "QygDbFBFKcbE",
+        "title": "Bank of America Case Study: The Information Currency Advantage",
+        "authors": [
+            "F Cari\u00f1o",
+            "M Jahnke"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "QnAdETum8ui1",
+        "title": "An Adaptive Query Execution System for Data Integration",
+        "authors": [
+            "Z Ives",
+            "D Florescu",
+            "M Friedman",
+            "A Levy",
+            "D Weld"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "R1qbD7plG2E2",
+        "title": "A Probabilistic Relational Model and Algebra",
+        "authors": [
+            "D Dey",
+            "S Sarkar"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1996"
+    },
+    {
+        "id": "yCUfvbw0P9f0",
+        "title": "Monitoring XML Data on the Web",
+        "authors": [
+            "B Nguyen",
+            "S Abiteboul",
+            "G Cobena",
+            "M Preda"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "YjwA2kpaYp2W",
+        "title": "Building Hierarchical Classifiers Using Class Proximity",
+        "authors": [
+            "K Wang",
+            "S Zhou",
+            "S Liew"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "M5DmvBPsc3qU",
+        "title": "New TPC Benchmarks for Decision Support and Web Commerce",
+        "authors": [
+            "M P\u00f6ss",
+            "C Floyd"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "Tm2Cj4hkqmSK",
+        "title": "Reusing Invariants: A New Strategy for Correlated Queries",
+        "authors": [
+            "J Rao",
+            "K Ross"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "rkA1lQnamVgN",
+        "title": "A Scalable Architecture for Autonomous Heterogeneous Database Interactions",
+        "authors": [
+            "S Milliner",
+            "A Bouguettaya",
+            "M Papazoglou"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "DljWoqmLJvQh",
+        "title": "The MEDUSA Project: Autonomous Data Management in a Shared-Nothing Parallel Database Machine",
+        "authors": [
+            "G Bryan",
+            "W Moore",
+            "B Curry",
+            "K Lodge",
+            "J Geyer"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "jkgnbmrfVMft",
+        "title": "Snakes and Sandwiches: Optimal Clustering Strategies for a Data Warehouse",
+        "authors": [
+            "H Jagadish",
+            "L Lakshmanan",
+            "D Srivastava"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "DSm6ftLM0nEh",
+        "title": "Performance Measurements of Compressed Bitmap Indices",
+        "authors": [
+            "T Johnson"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "mWgkkUVCxCUm",
+        "title": "Information Management for Genome Level Bioinformatics",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2001"
+    },
+    {
+        "id": "JnZCEL75EFdf",
+        "title": "SQL Multimedia and Application Packages (SQL/MM)",
+        "authors": [
+            "J Melton",
+            "A Eisenberg"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2001"
+    },
+    {
+        "id": "uOZzpgPM3m1X",
+        "title": "Critical Database Technologies for High Energy Physics",
+        "authors": [
+            "D Malon",
+            "E May"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "q31e8Ph7tVBY",
+        "title": "Mining Multi-Dimensional Constrained Gradients in Data Cubes",
+        "authors": [
+            "G Dong",
+            "J Han",
+            "J Lam",
+            "J Pei",
+            "K Wang"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "egn8a8xr5Rsv",
+        "title": "Efficient Support for Interactive Service in Multi-Resolution VOD Systems",
+        "authors": [
+            "K Law",
+            "J Lui",
+            "L Golubchik"
+        ],
+        "conference": "VLDB J.",
+        "year": "1999"
+    },
+    {
+        "id": "iOWbSpH6d4x0",
+        "title": "Self-similarity in the Web",
+        "authors": [
+            "S Dill",
+            "R Kumar",
+            "K McCurley",
+            "S Rajagopalan",
+            "D Sivakumar",
+            "A Tomkins"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "pN4OntDHBqxy",
+        "title": "An Overview of Repository Technology",
+        "authors": [
+            "P Bernstein",
+            "U Dayal"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "E4zmzWnaeFiv",
+        "title": "Free Parallel Data Mining",
+        "authors": [
+            "B Li",
+            "D Shasha"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "g0PeQWKyufQk",
+        "title": "Multi-Step Processing of Spatial Joins",
+        "authors": [
+            "T Brinkhoff",
+            "H Kriegel",
+            "R Schneider",
+            "B Seeger"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "lgLRxC0GU7dJ",
+        "title": "Efficient Structural Joins on Indexed XML Documents",
+        "authors": [
+            "S Chien",
+            "Z Vagena",
+            "D Zhang",
+            "V Tsotras",
+            "C Zaniolo"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "ITpXY4lZy2QR",
+        "title": "Parallel Mining Algorithms for Generalized Association Rules with Classification Hierarchy",
+        "authors": [
+            "T Shintani",
+            "M Kitsuregawa"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "RTf8SEeyBOoE",
+        "title": "Query by Diagram: A Graphical Environment for Querying Databases",
+        "authors": [
+            "T Catarci",
+            "G Santucci"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "Qt7LyQZ9xJIG",
+        "title": "New partnership with ACM and update on the journal",
+        "authors": [
+            "M \u00d6zsu"
+        ],
+        "conference": "VLDB J.",
+        "year": "2003"
+    },
+    {
+        "id": "IafTRCQbjMUv",
+        "title": "Comparative Analysis of Five XML Query Languages",
+        "authors": [
+            "A Bonifati",
+            "S Ceri"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "OQBtXsV0dQJo",
+        "title": "Coalescing in Temporal Databases",
+        "authors": [
+            "M B\u00f6hlen",
+            "R Snodgrass",
+            "M Soo"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "r2VctI63NPCX",
+        "title": "Database Tuning: Principles, Experiments, and Troubleshooting Techniques",
+        "authors": [
+            "D Shasha",
+            "P Bonnet"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "LNCIZwx4UsPn",
+        "title": "An Array-Based Algorithm for Simultaneous Multidimensional Aggregates",
+        "authors": [
+            "Y Zhao",
+            "P Deshpande",
+            "J Naughton"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "UUl4hMzFPbJj",
+        "title": "Quality of Service in Multimedia Digital Libraries",
+        "authors": [
+            "E Bertino",
+            "A Elmagarmid",
+            "M Hacid"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2001"
+    },
+    {
+        "id": "8ctcScz1RcbJ",
+        "title": "Query Caching and Optimization in Distributed Mediator Systems",
+        "authors": [
+            "S Adali",
+            "K Candan",
+            "Y Papakonstantinou",
+            "V Subrahmanian"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "mlKOL5xEILDt",
+        "title": "Redo Recovery after System Crashes",
+        "authors": [
+            "D Lomet",
+            "M Tuttle"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "yhtzE2KUFGMp",
+        "title": "A Multi-version Cache Replacement and Prefetching Policy for Hybrid Data Delivery Environments",
+        "authors": [
+            "A Seifert",
+            "M Scholl"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "N8TWRYjfgQpR",
+        "title": "Efficient and Cost-effective Techniques for Browsing and Indexing Large Video Databases",
+        "authors": [
+            "J Oh",
+            "K Hua"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "NK5KjI9P40hG",
+        "title": "Efficient and Transparent Application Recovery in Client-Server Information Systems",
+        "authors": [
+            "D Lomet",
+            "G Weikum"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "Mx4ohiQEk5OY",
+        "title": "A Unified Framework for Enforcing Multiple Access Control Policies",
+        "authors": [
+            "S Jajodia",
+            "P Samarati",
+            "V Subrahmanian",
+            "E Bertino"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "ZcKVszgpkpZA",
+        "title": "On XML and Databases: Where's the Beef? (Panel Abstract)",
+        "authors": [
+            "M Carey"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "dAStYBA9XfYw",
+        "title": "Reordering Query Execution in Tertiary Memory Databases",
+        "authors": [
+            "S Sarawagi",
+            "M Stonebraker"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "f1K5zuTnyxK7",
+        "title": "Hierarchical Compact Cube for Range-Max Queries",
+        "authors": [
+            "S Lee",
+            "T Ling",
+            "H Li"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "EW7tG8X9oRIW",
+        "title": "Enhancing Database Correctness: a Statistical Approach",
+        "authors": [
+            "W Hou",
+            "Z Zhang"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "xxrrjb7rpgjT",
+        "title": "On Parallel Execution of Multiple Pipelined Hash Joins",
+        "authors": [
+            "H Hsiao",
+            "M Chen",
+            "P Yu"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "UE949JNkF4rD",
+        "title": "Distributed Processing over Stand-alone Systems and Applications",
+        "authors": [
+            "G Alonso",
+            "C Hagen",
+            "H Schek",
+            "M Tresch"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "Do50W5aLt6im",
+        "title": "Optimal Clip Ordering for Multi-Clip Queries",
+        "authors": [
+            "R Ng",
+            "P Shum"
+        ],
+        "conference": "VLDB J.",
+        "year": "1998"
+    },
+    {
+        "id": "0Zntog2NyJ6q",
+        "title": "Agora: Living with XML and Relational",
+        "authors": [
+            "I Manolescu",
+            "D Florescu",
+            "D Kossmann",
+            "F Xhumari",
+            "D Olteanu"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "wRBcztxWn0y4",
+        "title": "MOCHA: A Database Middleware System Featuring Automatic Deployment of Application-Specific Functionality",
+        "authors": [
+            "M Rodriguez-Martinez",
+            "N Roussopoulos",
+            "J McGann",
+            "S Kelley",
+            "V Katz",
+            "Z Song",
+            "J J\u00e1J\u00e1"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "It6ZhrmoSJof",
+        "title": "Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases",
+        "authors": [
+            "R Agrawal",
+            "K Lin",
+            "H Sawhney",
+            "K Shim"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "BJrc7SnKscsE",
+        "title": "Managing Web Data",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "1999"
+    },
+    {
+        "id": "wP6zNxnSWI5e",
+        "title": "Vertical Data Migration in Large Near-Line Document Archives Based on Markov-Chain Predictions",
+        "authors": [
+            "A Kraiss",
+            "G Weikum"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "fAqCzaQerRar",
+        "title": "A One-Pass Algorithm for Accurately Estimating Quantiles for Disk-Resident Data",
+        "authors": [
+            "K Alsabti",
+            "S Ranka",
+            "V Singh"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "QuXzwgLuwEoZ",
+        "title": "FALCON: Feedback Adaptive Loop for Content-Based Retrieval",
+        "authors": [
+            "L Wu",
+            "C Faloutsos",
+            "K Sycara",
+            "T Payne"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "D9bjhDSpJOZ6",
+        "title": "The Microsoft Repository",
+        "authors": [
+            "P Bernstein",
+            "B Harry",
+            "P Sanders",
+            "D Shutt",
+            "J Zander"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "czXMsKoRTWrD",
+        "title": "On the Computation of Multidimensional Aggregates",
+        "authors": [
+            "S Agarwal",
+            "R Agrawal",
+            "P Deshpande",
+            "A Gupta",
+            "J Naughton",
+            "R Ramakrishnan",
+            "S Sarawagi"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "WKSxiUCb5CyA",
+        "title": "A case for fractured mirrors",
+        "authors": [
+            "R Ramamurthy",
+            "D DeWitt",
+            "Q Su"
+        ],
+        "conference": "VLDB J.",
+        "year": "2003"
+    },
+    {
+        "id": "lGU1T2QMeuew",
+        "title": "Some Issues in Design of Distributed Deductive Databases",
+        "authors": [
+            "M Mohania",
+            "N Sarda"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "M1znwv2QqebQ",
+        "title": "Query Unnesting in Object-Oriented Databases",
+        "authors": [
+            "L Fegaras"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "mvi9WUY6P7gK",
+        "title": "Information Integration: The MOMIS Project Demonstration",
+        "authors": [
+            "D Beneventano",
+            "S Bergamaschi",
+            "S Castano",
+            "A Corni",
+            "R Guidetti",
+            "G Malvezzi",
+            "M Melchiori",
+            "M Vincini"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "Dbb5QlM7gxfR",
+        "title": "Efficient Algorithms for Processing XPath Queries",
+        "authors": [
+            "G Gottlob",
+            "C Koch",
+            "R Pichler"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "Vt26dU7TfyKR",
+        "title": "Carnot and InfoSleuth: Database Technology and the World Wide Web",
+        "authors": [
+            "D Woelk",
+            "W Bohrer",
+            "N Jacobs",
+            "K Ong",
+            "C Tomlinson",
+            "C Unnikrishnan"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "a2fXhKBnQi78",
+        "title": "A Web odyssey: from codd to XML",
+        "authors": [
+            "V Vianu"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2003"
+    },
+    {
+        "id": "AR5NgujjtiZY",
+        "title": "Improved Query Performance with Variant Indexes",
+        "authors": [
+            "P O'Neil",
+            "D Quass"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "hawxHog4kSWb",
+        "title": "Medical Information Systems: Characterization and Challenges",
+        "authors": [
+            "J Ramirez",
+            "L Smith",
+            "L Peterson"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1994"
+    },
+    {
+        "id": "vc7OrX0nav0b",
+        "title": "WWW-UDK: A Web-based Environmental Meta-Information System",
+        "authors": [
+            "R Kramer",
+            "R Nikolai",
+            "A Koschel",
+            "C Rolker",
+            "P Lockemann",
+            "A Keitel",
+            "R Legat",
+            "K Zirm"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1997"
+    },
+    {
+        "id": "TuTKBji3VVes",
+        "title": "Tracing the lineage of view data in a warehousing environment",
+        "authors": [
+            "Y Cui",
+            "J Widom",
+            "J Wiener"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "2000"
+    },
+    {
+        "id": "Y0xtGf9xD51w",
+        "title": "COMA - A System for Flexible Combination of Schema Matching Approaches",
+        "authors": [
+            "H Do",
+            "E Rahm"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "PLBA2v1sE0pT",
+        "title": "SONAR: System for Optimized Numeric AssociationRules",
+        "authors": [
+            "T Fukuda",
+            "Y Morimoto",
+            "S Morishita",
+            "T Tokuyama"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "SIaY1L0AM65n",
+        "title": "An Extensible Notation for Spatiotemporal Index Queries",
+        "authors": [
+            "V Tsotras",
+            "C Jensen",
+            "R Snodgrass"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1998"
+    },
+    {
+        "id": "iSD2VjUlyTOJ",
+        "title": "Distributed File Organization with Scalable Cost/Performance",
+        "authors": [
+            "R Vingralek",
+            "Y Breitbart",
+            "G Weikum"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "V4q6eHnot2q0",
+        "title": "Answering queries with useful bindings",
+        "authors": [
+            "C Li",
+            "E Chang"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "2001"
+    },
+    {
+        "id": "Cb2kb4J9ADn5",
+        "title": "Systematic Development of Data Mining-Based Data Quality Tools",
+        "authors": [
+            "D L\u00fcbbers",
+            "U Grimmer",
+            "M Jarke"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "k3AKKwHaMzmo",
+        "title": "Why Decision Support Fails and How To Fix It",
+        "authors": [
+            "R Kimball",
+            "K Strehlo"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "IFlt5UgxQNGi",
+        "title": "Heterogeneous Database Query Optimization in DB2 Universal DataJoiner",
+        "authors": [
+            "S Venkataraman",
+            "T Zhang"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "B5o7bW24hCla",
+        "title": "VOODB: A Generic Discrete-Event Random Simulation Model To Evaluate the Performances of OODBs",
+        "authors": [
+            "J Darmont",
+            "M Schneider"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "WcBjrg0v5uOK",
+        "title": "Designing and Mining Multi-Terabyte Astronomy Archives: The Sloan Digital Sky Survey",
+        "authors": [
+            "A Szalay",
+            "P Kunszt",
+            "A Thakar",
+            "J Gray",
+            "D Slutz"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "qmvNzEXjwLa8",
+        "title": "Transactional Client-Server Cache Consistency: Alternatives and Performance",
+        "authors": [
+            "M Franklin",
+            "M Carey",
+            "M Livny"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1997"
+    },
+    {
+        "id": "IFmgII8MM8YC",
+        "title": "On the Costs of Multilingualism in Database Systems",
+        "authors": [
+            "A Kumaran",
+            "J Haritsa"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "mmclLrcM9ETG",
+        "title": "Comparative Analysis of Six XML Schema Languages",
+        "authors": [
+            "D Lee",
+            "W Chu"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "R45e32KEkjcT",
+        "title": "The History of Histograms (abridged)",
+        "authors": [
+            "Y Ioannidis"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "rwc5mgq21vHd",
+        "title": "Metrics for Accessing Heterogeneous Data: Is There Any Hope? (Panel)",
+        "authors": [
+            "L Seligman",
+            "N Belkin",
+            "E Neuhold",
+            "M Stonebraker",
+            "G Wiederhold"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "ZG4XCAMCLMgR",
+        "title": "Index Concurrency Control in Firm Real-Time Database Systems",
+        "authors": [
+            "B Goyal",
+            "J Haritsa",
+            "S Seshadri",
+            "V Srinivasan"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "Lz2RZCVz8MMW",
+        "title": "Report on the First International Conference on Ontologies, Databases and Applications of Semantics",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2003"
+    },
+    {
+        "id": "Z1c51qCJ2aI3",
+        "title": "Solving Satisfiability and Implication Problems in Database Systems",
+        "authors": [
+            "S Guo",
+            "W Sun",
+            "M Weiss"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1996"
+    },
+    {
+        "id": "UrRYbnsODq6A",
+        "title": "Quasi-Cubes: Exploiting Approximations in Multidimensional Databases",
+        "authors": [
+            "D Barbar\u00e1",
+            "M Sullivan"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1997"
+    },
+    {
+        "id": "UWfwCqb5T6Rr",
+        "title": "Discovering Internet Marketing Intelligence through Online Analytical Web Usage Mining",
+        "authors": [
+            "A B\u00fcchner",
+            "M Mulvenna"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1998"
+    },
+    {
+        "id": "jLQjur2cDNt6",
+        "title": "PUBLIC: A Decision Tree Classifier that Integrates Building and Pruning",
+        "authors": [
+            "R Rastogi",
+            "K Shim"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "ES1WpaD3LtMr",
+        "title": "THESUS: Organizing Web document collections based on link semantics",
+        "authors": [
+            "M Halkidi",
+            "B Nguyen",
+            "I Varlamis",
+            "M Vazirgiannis"
+        ],
+        "conference": "VLDB J.",
+        "year": "2003"
+    },
+    {
+        "id": "CykPiOvDBBiS",
+        "title": "I/O-Conscious Data Preparation for Large-Scale Web Search Engines",
+        "authors": [
+            "M Lifantsev",
+            "T Chiueh"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "KL1JgmGN6CtP",
+        "title": "Concurrency and Recovery in Generalized Search Trees",
+        "authors": [
+            "M Kornacker",
+            "C Mohan",
+            "J Hellerstein"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "USCZOwJxUGWI",
+        "title": "Improving Database Design Through the Analysis of Relationships",
+        "authors": [
+            "D Dey",
+            "V Storey",
+            "T Barron"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1999"
+    },
+    {
+        "id": "UIll1DXOlPVl",
+        "title": "Updating Knowledge Bases While Maintaining Their Consistency",
+        "authors": [
+            "E Teniente",
+            "A Oliv\u00e9"
+        ],
+        "conference": "VLDB J.",
+        "year": "1995"
+    },
+    {
+        "id": "La07SYGimzr0",
+        "title": "On-Demand Data Elevation in Hierarchical Multimedia Storage Servers",
+        "authors": [
+            "P Triantafillou",
+            "T Papadakis"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "w1PUts4Ls77N",
+        "title": "Wrapper Generation for Semi-structured Internet Sources",
+        "authors": [
+            "N Ashish",
+            "C Knoblock"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1997"
+    },
+    {
+        "id": "BaGw2jbrx9BU",
+        "title": "Developments at ACM TODS",
+        "authors": [
+            "R Snodgrass"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2003"
+    },
+    {
+        "id": "pA4tvokZiiKy",
+        "title": "Applying an update method to a set of receivers",
+        "authors": [
+            "M Andries",
+            "L Cabibbo",
+            "J Paredaens",
+            "J Bussche"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "2001"
+    },
+    {
+        "id": "ccH5hB2jCnHq",
+        "title": "Of Objects and Databases: A Decade of Turmoil",
+        "authors": [
+            "M Carey",
+            "D DeWitt"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "ItTVHDbLDiNF",
+        "title": "Providing Better Support for a Class of Decision Support Queries",
+        "authors": [
+            "S Rao",
+            "A Badia",
+            "D Gucht"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "wIhbe8hXjUDV",
+        "title": "Database Research at the University of Oklahoma",
+        "authors": [
+            "L Gruenwald",
+            "L Brown",
+            "R Dirckze",
+            "S Guinepain",
+            "C S\u00e1nchez",
+            "B Summers",
+            "S Vanichayobon"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1999"
+    },
+    {
+        "id": "o9wkX4jwStKn",
+        "title": "Checks and Balances: Monitoring Data Quality Problems in Network Traffic Databases",
+        "authors": [
+            "F Korn",
+            "S Muthukrishnan",
+            "Y Zhu"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "PVXTVvsCscsm",
+        "title": "Indexing Large Metric Spaces for Similarity Search Queries",
+        "authors": [
+            "T Bozkaya",
+            "Z \u00d6zsoyoglu"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1999"
+    },
+    {
+        "id": "kabjeO2Wya4l",
+        "title": "Efficacious Data Cube Exploration by Semantic Summarization and Compression",
+        "authors": [
+            "L Lakshmanan",
+            "J Pei",
+            "Y Zhao"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "wcI7hbril03z",
+        "title": "Load Shedding in a Data Stream Manager",
+        "authors": [
+            "N Tatbul",
+            "U \u00c7etintemel",
+            "S Zdonik",
+            "M Cherniack",
+            "M Stonebraker"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "wHLlwvzn8DhU",
+        "title": "Amalgamating Knowledge Bases",
+        "authors": [
+            "V Subrahmanian"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1994"
+    },
+    {
+        "id": "QasfTJxktTUr",
+        "title": "Constraint databases: A tutorial introduction",
+        "authors": [
+            "J Bussche"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "gdbbX1vAE58v",
+        "title": "Efficient Computation of Iceberg Cubes with Complex Measures",
+        "authors": [
+            "J Han",
+            "J Pei",
+            "G Dong",
+            "K Wang"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "IGsdZxjGRt0H",
+        "title": "Capturing Global Transactions from Multiple Recovery Log Files in a Partitioned Database System",
+        "authors": [
+            "C Liu",
+            "B Lindsay",
+            "S Bourbonnais",
+            "E Hamel",
+            "T Truong",
+            "J Stankiewitz"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "QWPTRLqBj8Sj",
+        "title": "Incremental Updates of Inverted Lists for Text Document Retrieval",
+        "authors": [
+            "A Tomasic",
+            "H Garcia-Molina",
+            "K Shoens"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "vWhSRGwmNUOz",
+        "title": "On the Academic Interview Circuit: An End-to-End Discussion",
+        "authors": [
+            "U \u00c7etintemel"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2001"
+    },
+    {
+        "id": "KISapKZlp5uq",
+        "title": "Query Execution Techniques for Caching Expensive Methods",
+        "authors": [
+            "J Hellerstein",
+            "J Naughton"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "hAU6VN5jE864",
+        "title": "Estimating Page Fetches for Index Scans with Finite LRU Buffers",
+        "authors": [
+            "A Swami",
+            "K Schiefer"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "Oh2BMxCSowf3",
+        "title": "A model for compound type changes encountered in schema evolution",
+        "authors": [
+            "B Lerner"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "2000"
+    },
+    {
+        "id": "8b3IHZm2Mt14",
+        "title": "Indexing the Positions of Continuously Moving Objects",
+        "authors": [
+            "S Saltenis",
+            "C Jensen",
+            "S Leutenegger",
+            "M Lopez"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "ATa5HaJ4qSP7",
+        "title": "The Database Group at National Technical University of Athens (NTUA)",
+        "authors": [
+            "T Sellis",
+            "Y Vassiliou"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "uIRdQQ9SoOez",
+        "title": "Generic Schema Matching with Cupid",
+        "authors": [
+            "J Madhavan",
+            "P Bernstein",
+            "E Rahm"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "KHEytydiFVIZ",
+        "title": "Template-Based Wrappers in the TSIMMIS System",
+        "authors": [
+            "J Hammer",
+            "H Garcia-Molina",
+            "S Nestorov",
+            "R Yerneni",
+            "M Breunig",
+            "V Vassalos"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "NigyCZGl0euO",
+        "title": "Maintenance of Data Cubes and Summary Tables in a Warehouse",
+        "authors": [
+            "I Mumick",
+            "D Quass",
+            "B Mumick"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "pWTfopgE1WeQ",
+        "title": "Structural Function Inlining Technique for Structurally Recursive XML Queries",
+        "authors": [
+            "C Park",
+            "J Min",
+            "C Chung"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "zl8Djyi8d7IM",
+        "title": "Efficient Processing of Expressive Node-Selecting Queries on XML Data in Secondary Storage: A Tree Automata-based Approach",
+        "authors": [
+            "C Koch"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "Q0ZxxBDAQ0Us",
+        "title": "From Nested-Loop to Join Queries in OODB",
+        "authors": [
+            "H Steenhagen",
+            "P Apers",
+            "H Blanken",
+            "R By"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "QOeKHUFCTfmN",
+        "title": "Optimization Techniques for Queries with Expensive Methods",
+        "authors": [
+            "J Hellerstein"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1998"
+    },
+    {
+        "id": "FKvLzCL1StXV",
+        "title": "TCP-D - The Challenges, Issues and Results",
+        "authors": [
+            "R Bhashyam"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1996"
+    },
+    {
+        "id": "jCySOk6Yt1FB",
+        "title": "Efficient Management of Multiversion Documents by Object Referencing",
+        "authors": [
+            "S Chien",
+            "V Tsotras",
+            "C Zaniolo"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "SOCE4baOdFkz",
+        "title": "Report on DART '96: Databases: Active and Real-Time (Concepts meet Practice)",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "1997"
+    },
+    {
+        "id": "WRD8yUPChcDL",
+        "title": "Local Dimensionality Reduction: A New Approach to Indexing High Dimensional Spaces",
+        "authors": [
+            "K Chakrabarti",
+            "S Mehrotra"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "uz7wbFd8sP9L",
+        "title": "Change Detection in Hierarchically Structured Information",
+        "authors": [
+            "S Chawathe",
+            "A Rajaraman",
+            "H Garcia-Molina",
+            "J Widom"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "EitUoh1wXQke",
+        "title": "Experiences in Federated Databases: From IRO-DB to MIRO-Web",
+        "authors": [
+            "P Fankhauser",
+            "G Gardarin",
+            "M Lopez",
+            "J Mu\u00f1oz",
+            "A Tomasic"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "JLiCvhQ6f9fG",
+        "title": "NAOS - Efficient and Modular Reactive Capabilities in an Object-Oriented Database System",
+        "authors": [
+            "C Collet",
+            "T Coupaye",
+            "T Svensen"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "c2VQWujqwAlU",
+        "title": "On Completeness of Historical Relational Query Languages",
+        "authors": [
+            "J Clifford",
+            "A Croker",
+            "A Tuzhilin"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1994"
+    },
+    {
+        "id": "Buf2q7tPUM8m",
+        "title": "Using Versions in Update Transactions: Application to Integrity Checking",
+        "authors": [
+            "F Llirbat",
+            "E Simon",
+            "D Tombroff"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "477JnVljflrJ",
+        "title": "An Alternative Storage Organization for ROLAP Aggregate Views Based on Cubetrees",
+        "authors": [
+            "Y Kotidis",
+            "N Roussopoulos"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "iBEkEihOON64",
+        "title": "Optimization of Dynamic Query Evaluation Plans",
+        "authors": [
+            "R Cole",
+            "G Graefe"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "bYuRRpqUbjSU",
+        "title": "Xcerpt and visXcerpt: From Pattern-Based to Visual Querying of XML and Semistructured Data",
+        "authors": [
+            "S Berger",
+            "F Bry",
+            "S Schaffert",
+            "C Wieser"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "KYoZqor62NCM",
+        "title": "Spatial Operators",
+        "authors": [
+            "E Clementini",
+            "P Felice"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "f82YnWRfABJ2",
+        "title": "Business-to-business interactions: issues and enabling technologies",
+        "authors": [
+            "B Medjahed",
+            "B Benatallah",
+            "A Bouguettaya",
+            "A Ngu",
+            "A Elmagarmid"
+        ],
+        "conference": "VLDB J.",
+        "year": "2003"
+    },
+    {
+        "id": "AKcvF7fBsdKU",
+        "title": "Languages for Multi-database Interoperability",
+        "authors": [
+            "F Gingras",
+            "L Lakshmanan",
+            "I Subramanian",
+            "D Papoulis",
+            "N Shiri"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "URGUT77e3YeU",
+        "title": "Efficient User-Adaptable Similarity Search in Large Multimedia Databases",
+        "authors": [
+            "T Seidl",
+            "H Kriegel"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "dfyrGWrHVd5d",
+        "title": "From VLDB to VMLDB (Very MANY Large Data Bases): Dealing with Large-Scale Semantic Heterogenity",
+        "authors": [
+            "S Madnick"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "DkqRDENZCbuv",
+        "title": "Managing Intervals Efficiently in Object-Relational Databases",
+        "authors": [
+            "H Kriegel",
+            "M P\u00f6tke",
+            "T Seidl"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "88PMxFC75Owc",
+        "title": "Data Warehouse Configuration",
+        "authors": [
+            "D Theodoratos",
+            "T Sellis"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "M3DS935bpG33",
+        "title": "Algorithms for Deferred View Maintenance",
+        "authors": [
+            "L Colby",
+            "T Griffin",
+            "L Libkin",
+            "I Mumick",
+            "H Trickey"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "cqRDBGwvVaEI",
+        "title": "Towards On-Line Analytical Mining in Large Databases",
+        "authors": [
+            "J Han"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1998"
+    },
+    {
+        "id": "g23BF2tr7MP4",
+        "title": "Toward Autonomic Computing with DB2 Universal Database",
+        "authors": [
+            "S Lightstone",
+            "G Lohman",
+            "D Zilio"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2002"
+    },
+    {
+        "id": "sUdI13fZxQuJ",
+        "title": "Join Algorithm Costs Revisited",
+        "authors": [
+            "E Harris",
+            "K Ramamohanarao"
+        ],
+        "conference": "VLDB J.",
+        "year": "1996"
+    },
+    {
+        "id": "v3ddX0eUKlS1",
+        "title": "Approximate Medians and other Quantiles in One Pass and with Limited Memory",
+        "authors": [
+            "G Manku",
+            "S Rajagopalan",
+            "B Lindsay"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "ygATyp8RioPK",
+        "title": "RoadRunner: automatic data extraction from data-intensive web sites",
+        "authors": [
+            "V Crescenzi",
+            "G Mecca",
+            "P Merialdo"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "gnA8bWT0zQoP",
+        "title": "IrisNet: Internet-scale Resource-Intensive Sensor Services",
+        "authors": [
+            "A Deshpande",
+            "S Nath",
+            "P Gibbons",
+            "S Seshan"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "avu5uqLSshQz",
+        "title": "Semistructured und Structured Data in the Web: Going Back and Forth",
+        "authors": [
+            "P Atzeni",
+            "G Mecca",
+            "P Merialdo"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1997"
+    },
+    {
+        "id": "bx8eB7OtaeK2",
+        "title": "Rapid Bushy Join-order Optimization with Cartesian Products",
+        "authors": [
+            "B Vance",
+            "D Maier"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "cGLaU1w20mOY",
+        "title": "Enterprise Information Architectures -- They're Finally Changing",
+        "authors": [
+            "W Melling"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "m8BwqventcIf",
+        "title": "Materialized View Selection for Multidimensional Datasets",
+        "authors": [
+            "A Shukla",
+            "P Deshpande",
+            "J Naughton"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "mHJSJJrCvwe3",
+        "title": "Nodose Version 2.0",
+        "authors": [
+            "B Adelberg",
+            "M Denny"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "KZQVcLvH3kej",
+        "title": "Implementation of Magic-sets in a Relational Database System",
+        "authors": [
+            "I Mumick",
+            "H Pirahesh"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "oAaOJ2Vy7tkX",
+        "title": "Memory Management During Run Generation in External Sorting",
+        "authors": [
+            "P Larson",
+            "G Graefe"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "wNoL0McjLzsj",
+        "title": "Oracle's Symmetric Replication Technology and Implications for Application Design",
+        "authors": [
+            "D Daniels",
+            "L Doo",
+            "A Downing",
+            "C Elsbernd",
+            "G Hallmark",
+            "S Jain",
+            "B Jenkins",
+            "P Lim",
+            "G Smith",
+            "B Souder",
+            "J Stamos"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "t9zup32PRUy2",
+        "title": "Pixel-oriented Database Visualizations",
+        "authors": [
+            "D Keim"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1996"
+    },
+    {
+        "id": "Zbr1t8Vi70v1",
+        "title": "Multiview Access Protocols for Large-Scale Replication",
+        "authors": [
+            "X Liu",
+            "A Helal",
+            "W Du"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1998"
+    },
+    {
+        "id": "wXL7RVQCtxGb",
+        "title": "Use of a Component Architecture in Integrating Relational and Non-relational Storage Systems",
+        "authors": [
+            "R Atkinson"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "Zz37Zc7pHyyw",
+        "title": "DynaMat: A Dynamic View Management System for Data Warehouses",
+        "authors": [
+            "Y Kotidis",
+            "N Roussopoulos"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "wUkWmlkBF2ks",
+        "title": "Random Sampling for Histogram Construction: How much is enough?",
+        "authors": [
+            "S Chaudhuri",
+            "R Motwani",
+            "V Narasayya"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "fkgLqqNIqLti",
+        "title": "Parallel Evaluation of Multi-Join Queries",
+        "authors": [
+            "A Wilschut",
+            "J Flokstra",
+            "P Apers"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "Az9BRsMrzEz8",
+        "title": "A Normal Form for Precisely Characterizing Redundancy in Nested Relations",
+        "authors": [
+            "W Mok",
+            "Y Ng",
+            "D Embley"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1996"
+    },
+    {
+        "id": "bQ2LAPhuOgsw",
+        "title": "The Clio Project: Managing Heterogeneity",
+        "authors": [
+            "R Miller",
+            "M Hern\u00e1ndez",
+            "L Haas",
+            "L Yan",
+            "C Ho",
+            "R Fagin",
+            "L Popa"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2001"
+    },
+    {
+        "id": "osVi6gLYkp2k",
+        "title": "Approximate Query Processing Using Wavelets",
+        "authors": [
+            "K Chakrabarti",
+            "M Garofalakis",
+            "R Rastogi",
+            "K Shim"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "lvA8Shu3K1BQ",
+        "title": "MV3R-Tree: A Spatio-Temporal Access Method for Timestamp and Interval Queries",
+        "authors": [
+            "Y Tao",
+            "D Papadias"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "K7BwSZZXGyZ7",
+        "title": "Workflow Automation: Applications, Technology, and Research (Tutorial)",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "1995"
+    },
+    {
+        "id": "Hh864VUICPnm",
+        "title": "The Data That You Won't Find in Databases: Tutorial panel on data exchange formats",
+        "authors": [
+            "P Buneman",
+            "D Maier"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "uyZw555oVKil",
+        "title": "SQL and Management of External Data",
+        "authors": [
+            "J Melton",
+            "J Michels",
+            "V Josifovski",
+            "K Kulkarni",
+            "P Schwarz",
+            "K Zeidenstein"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2001"
+    },
+    {
+        "id": "a4uDCx1QDLVy",
+        "title": "ICICLES: Self-Tuning Samples for Approximate Query Answering",
+        "authors": [
+            "V Ganti",
+            "M Lee",
+            "R Ramakrishnan"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "IZfVupf4OTxn",
+        "title": "A new approach to developing and implementing eager database replication protocols",
+        "authors": [
+            "B Kemme",
+            "G Alonso"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "2000"
+    },
+    {
+        "id": "azaToXwpE2Nm",
+        "title": "Mining Deviants in a Time Series Database",
+        "authors": [
+            "H Jagadish",
+            "N Koudas",
+            "S Muthukrishnan"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "CAY371V4lFSs",
+        "title": "Analysis of n-Dimensional Quadtrees using the Hausdorff Fractal Dimension",
+        "authors": [
+            "C Faloutsos",
+            "V Gaede"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "mhJ26NblfT1e",
+        "title": "Cache Fusion: Extending Shared-Disk Clusters with Shared Caches",
+        "authors": [
+            "T Lahiri",
+            "V Srihari",
+            "W Chan",
+            "N MacNaughton",
+            "S Chandrasekaran"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "NesVP97hPcfG",
+        "title": "The hBP-tree: A Modified hB-tree Supporting Concurrency, Recovery and Node Consolidation",
+        "authors": [
+            "G Evangelidis",
+            "D Lomet",
+            "B Salzberg"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "TIsc7LA6he0T",
+        "title": "Materialized Views Selection in a Multidimensional Database",
+        "authors": [
+            "E Baralis",
+            "S Paraboschi",
+            "E Teniente"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "T3zLAUTGFFpN",
+        "title": "Bottom-Up Computation of Sparse and Iceberg CUBEs",
+        "authors": [
+            "K Beyer",
+            "R Ramakrishnan"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "bWD0stCt69Ff",
+        "title": "OdeFS: A File System Interface to an Object-Oriented Database",
+        "authors": [
+            "N Gehani",
+            "H Jagadish",
+            "W Roome"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "I6XK4xE3YBJC",
+        "title": "Engineering Federated Information Systems: Report of EFIS '99 Workshop",
+        "authors": [
+            "S Conrad",
+            "W Hasselbring",
+            "U Hohenstein",
+            "R Kutsche",
+            "M Roantree",
+            "G Saake",
+            "F Saltor"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1999"
+    },
+    {
+        "id": "urS21QsfUfMb",
+        "title": "Implementing Deductive Databases by Mixed Integer Programming",
+        "authors": [
+            "C Bell",
+            "A Nerode",
+            "R Ng",
+            "V Subrahmanian"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1996"
+    },
+    {
+        "id": "ghDDfcsgm5SF",
+        "title": "Efficient similarity search for market basket data",
+        "authors": [
+            "A Nanopoulos",
+            "Y Manolopoulos"
+        ],
+        "conference": "VLDB J.",
+        "year": "2002"
+    },
+    {
+        "id": "Qfy74cieleSF",
+        "title": "XML Repository and Active Views Demonstration",
+        "authors": [
+            "S Abiteboul",
+            "V Aguilera",
+            "S Ailleret",
+            "B Amann",
+            "S Cluet",
+            "B Hills",
+            "F Hubert",
+            "J Mamou",
+            "A Marian",
+            "L Mignet",
+            "T Milo",
+            "C Santos",
+            "B Tessier",
+            "A Vercoustre"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "n5wls7E1aam7",
+        "title": "An Overview of DB2 Parallel Edition",
+        "authors": [
+            "C Baru",
+            "G Fecteau",
+            "A Goyal",
+            "H Hsiao",
+            "A Jhingran",
+            "S Padmanabhan",
+            "W Wilson"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "ioLB0eubf6NO",
+        "title": "Duplicate Removal in Information System Dissemination",
+        "authors": [
+            "T Yan",
+            "H Garcia-Molina"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "lN0k8k3ooZKX",
+        "title": "Guidelines for Presentation and Comparison of Indexing Techniques",
+        "authors": [
+            "J Zobel",
+            "A Moffat",
+            "K Ramamohanarao"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1996"
+    },
+    {
+        "id": "ifsiPrJwuMxg",
+        "title": "Chronological Scheduling of Transactions with Temporal Dependencies",
+        "authors": [
+            "D Georgakopoulos",
+            "M Rusinkiewicz",
+            "W Litwin"
+        ],
+        "conference": "VLDB J.",
+        "year": "1994"
+    },
+    {
+        "id": "cemRWMX3jnRM",
+        "title": "Constructing Efficient Decision Trees by Using Optimized Numeric Association Rules",
+        "authors": [
+            "T Fukuda",
+            "Y Morimoto",
+            "S Morishita",
+            "T Tokuyama"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "opO5DRq6zhQs",
+        "title": "OPOSSUM: Desk-Top Schema Management through Customizable Visualization",
+        "authors": [
+            "E Haber",
+            "Y Ioannidis",
+            "M Livny"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "zwFaiDDJkCef",
+        "title": "Industry Perspectives",
+        "authors": [
+            "L Seligman"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1997"
+    },
+    {
+        "id": "AtOutPoXio8p",
+        "title": "Predator: A Resource for Database Research",
+        "authors": [
+            "P Seshadri"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1998"
+    },
+    {
+        "id": "sWHlzEDm4b70",
+        "title": "The Heterogeneity Problem and Middleware Technology: Experiences with and Performance of Database Gateways",
+        "authors": [
+            "F Rezende",
+            "K Hergula"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "UR5F8RvIqjYA",
+        "title": "Modeling Skewed Distribution Using Multifractals and the `80-20' Law",
+        "authors": [
+            "C Faloutsos",
+            "Y Matias",
+            "A Silberschatz"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "fDxmuX0TjdhT",
+        "title": "Advances in Databases and Information Systems (ADBIS)",
+        "authors": [
+            "A Caplinskas",
+            "J Eder",
+            "O Vasilecas"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2002"
+    },
+    {
+        "id": "wzL1Vj5mpYKd",
+        "title": "Mariposa: A Wide-Area Distributed Database System",
+        "authors": [
+            "M Stonebraker",
+            "P Aoki",
+            "W Litwin",
+            "A Pfeffer",
+            "A Sah",
+            "J Sidell",
+            "C Staelin",
+            "A Yu"
+        ],
+        "conference": "VLDB J.",
+        "year": "1996"
+    },
+    {
+        "id": "p4ty7mmoVB73",
+        "title": "The Power of Languages for the Manipulation of Complex Values",
+        "authors": [
+            "S Abiteboul",
+            "C Beeri"
+        ],
+        "conference": "VLDB J.",
+        "year": "1995"
+    },
+    {
+        "id": "ZyL4dXDpXj0q",
+        "title": "XRANK: Ranked Keyword Search over XML Documents",
+        "authors": [
+            "L Guo",
+            "F Shao",
+            "C Botev",
+            "J Shanmugasundaram"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "f7kICVQag9E9",
+        "title": "Toward Learning Based Web Query Processing",
+        "authors": [
+            "Y Diao",
+            "H Lu",
+            "S Chen",
+            "Z Tian"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "bwUM96Id9JWw",
+        "title": "Query processing techniques for arrays",
+        "authors": [
+            "A Marathe",
+            "K Salem"
+        ],
+        "conference": "VLDB J.",
+        "year": "2002"
+    },
+    {
+        "id": "rfoxW69Vdae4",
+        "title": "Size Separation Spatial Join",
+        "authors": [
+            "N Koudas",
+            "K Sevcik"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "F8IBnIZVet8S",
+        "title": "Using the Golden Rule of Sampling for Query Estimation",
+        "authors": [
+            "Y Wu",
+            "D Agrawal",
+            "A Abbadi"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "Cup1vI4NASFu",
+        "title": "Optimizing Queries Using Materialized Views: A practical, scalable solution",
+        "authors": [
+            "J Goldstein",
+            "P Larson"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "R7TWT7CWRic6",
+        "title": "Locating and accessing data repositories with WebSemantics",
+        "authors": [
+            "G Mihaila",
+            "L Raschid",
+            "A Tomasic"
+        ],
+        "conference": "VLDB J.",
+        "year": "2002"
+    },
+    {
+        "id": "EwKdSomn3BxB",
+        "title": "Query Rewriting for Semistructured Data",
+        "authors": [
+            "Y Papakonstantinou",
+            "V Vassalos"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "li8RMQo6mbqg",
+        "title": "Implementing Xquery 1.0: The Galax Experience",
+        "authors": [
+            "M Fernandez",
+            "J Sim\u00e9on",
+            "B Choi",
+            "A Marian",
+            "G Sur"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "czOp4bGDzS1i",
+        "title": "Specification and Implementation of Exceptions in Workflow Management Systems",
+        "authors": [
+            "F Casati",
+            "S Ceri",
+            "S Paraboschi",
+            "G Pozzi"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1999"
+    },
+    {
+        "id": "P6NvFodQd820",
+        "title": "Improving Performance with Bulk-Inserts in Oracle R-Trees",
+        "authors": [
+            "N An",
+            "K Kanth",
+            "S Ravada"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "Ah4UvTiGWvik",
+        "title": "The Software Information Base: A Server for Reuse",
+        "authors": [
+            "P Constantopoulos",
+            "M Jarke",
+            "J Mylopoulos",
+            "Y Vassiliou"
+        ],
+        "conference": "VLDB J.",
+        "year": "1995"
+    },
+    {
+        "id": "R22nLJxYJ47J",
+        "title": "Orthogonal Optimization of Subqueries and Aggregation",
+        "authors": [
+            "C Galindo-Legaria",
+            "M Joshi"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "U5tKoe5ef2hi",
+        "title": "QuickStore: A High Performance Mapped Object Store",
+        "authors": [
+            "S White",
+            "D DeWitt"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "aRrLINPidHRl",
+        "title": "Cubetree: Organization of and Bulk Updates on the Data Cube",
+        "authors": [
+            "N Roussopoulos",
+            "Y Kotidis",
+            "M Roussopoulos"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "gWKd6SvzQH68",
+        "title": "Oracle Media Server: Providing Consumer Based Interactive Access to Multimedia Data",
+        "authors": [
+            "A Laursen",
+            "J Olkin",
+            "M Porter"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "UDHBk6pqOgVc",
+        "title": "Estimating the Output Cardinality of Partial Preaggregation with a Measure of Clusteredness",
+        "authors": [
+            "S Helmer",
+            "T Neumann",
+            "G Moerkotte"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "uoXeK6OlYf1o",
+        "title": "The MENTOR Workbench for Enterprise-wide Workflow Management",
+        "authors": [
+            "D Wodtke",
+            "J Wei\u00dfenfels",
+            "G Weikum",
+            "A Dittrich",
+            "P Muth"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "TlVdfp5K86E6",
+        "title": "SHORE: Combining the Best Features of OODBMS and File Systems",
+        "authors": [
+            "S Team"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "YdAq3M081raV",
+        "title": "Will Database Researchers Have ANY Role in Data Security? (Panel Abstract)",
+        "authors": [
+            "A Rosenthal"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "uupkZK1dFl7b",
+        "title": "Temporal Aggregation in Active Database Rules",
+        "authors": [
+            "I Motakis",
+            "C Zaniolo"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "AL0SC0azGnek",
+        "title": "Tutorial: application servers and associated technologies",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2002"
+    },
+    {
+        "id": "ELppHyiWPM1Y",
+        "title": "ATLAS: A Small but Complete SQL Extension for Data Mining and Data Streams",
+        "authors": [
+            "H Wang",
+            "C Zaniolo",
+            "C Luo"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "Pc9k6zlYhUTU",
+        "title": "Online Dynamic Reordering for Interactive Data Processing",
+        "authors": [
+            "V Raman",
+            "B Raman",
+            "J Hellerstein"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "vOx30k5vVezK",
+        "title": "Application of OODB and SGML Techniques in Text Database: An Electronic Dictionary System",
+        "authors": [
+            "J Zhang"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "EvyXglpihdgl",
+        "title": "The Lotus Notes Storage System",
+        "authors": [
+            "K Moore"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "w0yeRn4nSnJI",
+        "title": "Answering queries using views: A survey",
+        "authors": [
+            "A Halevy"
+        ],
+        "conference": "VLDB J.",
+        "year": "2001"
+    },
+    {
+        "id": "8TvmyHKz7HI6",
+        "title": "Generalized Search Trees for Database Systems",
+        "authors": [
+            "J Hellerstein",
+            "J Naughton",
+            "A Pfeffer"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "uWCPU1voRsAS",
+        "title": "Extracting Structured Data from Web Pages",
+        "authors": [
+            "A Arasu",
+            "H Garcia-Molina"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "ZQHs3SUlu2Q1",
+        "title": "Finding Replicated Web Collections",
+        "authors": [
+            "J Cho",
+            "N Shivakumar",
+            "H Garcia-Molina"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "E0IGMU3BZjqj",
+        "title": "Logical and Physical Versioning in Main Memory Databases",
+        "authors": [
+            "R Rastogi",
+            "S Seshadri",
+            "P Bohannon",
+            "D Leinbaugh",
+            "A Silberschatz",
+            "S Sudarshan"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "Xdj4yTMtZtq7",
+        "title": "Infosphere Project: System Support for Information Flow Applications",
+        "authors": [
+            "C Pu",
+            "K Schwan",
+            "J Walpole"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2001"
+    },
+    {
+        "id": "Vj24TEOh3b1i",
+        "title": "SPARTAN: A Model-Based Semantic Compression System for Massive Data Tables",
+        "authors": [
+            "S Babu",
+            "M Garofalakis",
+            "R Rastogi"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "wRNXEasUiLOe",
+        "title": "CubeExplorer: online exploration of data cubes",
+        "authors": [
+            "J Han",
+            "J Wang",
+            "G Dong",
+            "J Pei",
+            "K Wang"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "rKXGHw1xyamG",
+        "title": "QXtract: A Building Block for Efficient Information Extraction from Plain-Text Databases",
+        "authors": [
+            "E Agichtein",
+            "L Gravano"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "C336ZpQJz3jD",
+        "title": "Experience Report: Exploiting Advanced Database Optimization Features for Large-Scale SAP R/3 Installations",
+        "authors": [
+            "B Zeller",
+            "A Kemper"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "jhGPAUH317MZ",
+        "title": "Adaptive Selectivity Estimation Using Query Feedback",
+        "authors": [
+            "C Chen",
+            "N Roussopoulos"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "yFqKg598nUN0",
+        "title": "Intra-Transaction Parallelism in the Mapping of an Object Model to a Relational Multi-Processor System",
+        "authors": [
+            "M Rys",
+            "M Norrie",
+            "H Schek"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "gNOfmyrJDDSE",
+        "title": "Towards Data Mining Benchmarking: A Testbed for Performance Study of Frequent Pattern Mining",
+        "authors": [
+            "J Pei",
+            "R Mao",
+            "K Hu",
+            "H Zhu"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "kuBFNLlKlurB",
+        "title": "GeMBASE: A Geometric Mediator for Brain Analysis with Surface Ensembles",
+        "authors": [
+            "S Santini",
+            "A Gupta"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "CPnWW7ujMw7D",
+        "title": "Exploiting early sorting and early partitioning for decisionsupport query processing",
+        "authors": [
+            "J Clau\u00dfen",
+            "A Kemper",
+            "D Kossmann",
+            "C Wiesner"
+        ],
+        "conference": "VLDB J.",
+        "year": "2000"
+    },
+    {
+        "id": "SDPl5fFD7e4h",
+        "title": "XML Data Management Go Native or Spruce up Relational Systems? (Panel Abstract)",
+        "authors": [
+            "P Larson"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "eNdnGPp7NJIY",
+        "title": "Atomicity versus Anonymity: Distributed Transactions for Electronic Commerce",
+        "authors": [
+            "J Tygar"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "s2jZVlboaqX0",
+        "title": "Databases for GIS",
+        "authors": [
+            "C Medeiros",
+            "F Pires"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1994"
+    },
+    {
+        "id": "ZKfOwIHx0jxv",
+        "title": "Balancing Histogram Optimality and Practicality for Query Result Size Estimation",
+        "authors": [
+            "Y Ioannidis",
+            "V Poosala"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "aPGJg7r6SRXz",
+        "title": "XQuery: A Query Language for XML",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2003"
+    },
+    {
+        "id": "GP6yHxxqkj5u",
+        "title": "XmdvTool: visual interactive data exploration and trend discovery of high-dimensional data sets",
+        "authors": [
+            "E Rundensteiner",
+            "M Ward",
+            "J Yang",
+            "P Doshi"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "VMPOv8s7fw5w",
+        "title": "Evaluating Queries with Generalized Path Expressions",
+        "authors": [
+            "V Christophides",
+            "S Cluet",
+            "G Moerkotte"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "ucHYDoXKei9g",
+        "title": "On Spatially Partitioned Temporal Join",
+        "authors": [
+            "H Lu",
+            "B Ooi",
+            "K Tan"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "cv4suBpO51nK",
+        "title": "Bitmap Index Design and Evaluation",
+        "authors": [
+            "C Chan",
+            "Y Ioannidis"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "Y3lFpkQShB5p",
+        "title": "DWMS: Data Warehouse Management System",
+        "authors": [
+            "N Mohan"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "JEMXta8ziuXi",
+        "title": "Structural Matching and Discovery in Document Databases",
+        "authors": [
+            "J Wang",
+            "D Shasha",
+            "G Chang",
+            "L Relihan",
+            "K Zhang",
+            "G Patel"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "ZbGmIwMWucWR",
+        "title": "Fast-Start: Quick Fault Recovery in Oracle",
+        "authors": [
+            "T Lahiri",
+            "A Ganesh",
+            "R Weiss",
+            "A Joshi"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "ONtFZx8wRonP",
+        "title": "Experiences in Mining Aviation Safety Data",
+        "authors": [
+            "Z Nazeri",
+            "E Bloedorn",
+            "P Ostwald"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "FzV6mpbCqQqF",
+        "title": "A Complete Temporal Relational Algebra",
+        "authors": [
+            "D Dey",
+            "T Barron",
+            "V Storey"
+        ],
+        "conference": "VLDB J.",
+        "year": "1996"
+    },
+    {
+        "id": "KfOoWTioxzuz",
+        "title": "RoadRunner: Towards Automatic Data Extraction from Large Web Sites",
+        "authors": [
+            "V Crescenzi",
+            "G Mecca",
+            "P Merialdo"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "g9LZQcpvVeoR",
+        "title": "A Pattern-Based Object Calculus",
+        "authors": [
+            "N Kamel",
+            "P Wu",
+            "S Su"
+        ],
+        "conference": "VLDB J.",
+        "year": "1994"
+    },
+    {
+        "id": "g6Vh2fM5zzAA",
+        "title": "The Distributed Information Search Component (Disco) and the World Wide Web",
+        "authors": [
+            "A Tomasic",
+            "R Amouroux",
+            "P Bonnet",
+            "O Kapitskaia",
+            "H Naacke",
+            "L Raschid"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "qhCyDM2Qo7gU",
+        "title": "Knowledge Discovery in Data Warehouses",
+        "authors": [
+            "T Palpanas"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "tFuD4MkPRAkH",
+        "title": "The Aggregate Data Problem: A System for their Definition and Management",
+        "authors": [
+            "M Rafanelli",
+            "A Bezenchek",
+            "L Tininini"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1996"
+    },
+    {
+        "id": "wqhnHKplGFJN",
+        "title": "RTMonitor: Real-Time Data Monitoring Using Mobile Agent Technologies",
+        "authors": [
+            "K Lam",
+            "A Kwan",
+            "K Ramamritham"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "IOqvnGgT1V6j",
+        "title": "SQL/MED - A Status Report",
+        "authors": [
+            "J Melton",
+            "J Michels",
+            "V Josifovski",
+            "K Kulkarni",
+            "P Schwarz"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2002"
+    },
+    {
+        "id": "uB8G3QGqImxx",
+        "title": "Multi-Table Joins Through Bitmapped Join Indices",
+        "authors": [
+            "P O'Neil",
+            "G Graefe"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "PpxcecZpkeNB",
+        "title": "Publish/Subscribe on the Web at Extreme Speed",
+        "authors": [
+            "J Pereira",
+            "F Fabret",
+            "F Llirbat",
+            "R Preotiuc-Pietro",
+            "K Ross",
+            "D Shasha"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "iETUMMEkR0dX",
+        "title": "Accessing a Relational Database through an Object-Oriented Database Interface",
+        "authors": [
+            "J Orenstein",
+            "D Kamber"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "m1Ya4kHSShwS",
+        "title": "A Framework for Supporting Data Integration Using the Materialized and Virtual Approaches",
+        "authors": [
+            "R Hull",
+            "G Zhou"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "c0kkjZWTeNij",
+        "title": "Distributed deviation detection in sensor networks",
+        "authors": [
+            "T Palpanas",
+            "D Papadopoulos",
+            "V Kalogeraki",
+            "D Gunopulos"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2003"
+    },
+    {
+        "id": "J59b10sUVmbz",
+        "title": "Efficient and Extensible Algorithms for Multi Query Optimization",
+        "authors": [
+            "P Roy",
+            "S Seshadri",
+            "S Sudarshan",
+            "S Bhobe"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "M3XQqMZHfD9x",
+        "title": "Query Processing Over Object Views of Relational Data",
+        "authors": [
+            "G Fahl",
+            "T Risch"
+        ],
+        "conference": "VLDB J.",
+        "year": "1997"
+    },
+    {
+        "id": "dEgAq3Ox4FJO",
+        "title": "Agent-Based Semantic Interoperability in InfoSleuth",
+        "authors": [
+            "J Fowler",
+            "B Perry",
+            "M Nodine",
+            "B Bargmeyer"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1999"
+    },
+    {
+        "id": "g9yIYyTjm9r8",
+        "title": "IDEA: Interactive Data Exploration and Analysis",
+        "authors": [
+            "P Selfridge",
+            "D Srivastava",
+            "L Wilson"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "xkGJXjV1LjXF",
+        "title": "An Efficient Bitmap Encoding Scheme for Selection Queries",
+        "authors": [
+            "C Chan",
+            "Y Ioannidis"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "RXkavrl9liqY",
+        "title": "Supporting efficient multimedia database exploration",
+        "authors": [
+            "W Li",
+            "K Candan",
+            "K Hirata",
+            "Y Hara"
+        ],
+        "conference": "VLDB J.",
+        "year": "2001"
+    },
+    {
+        "id": "NRvPuoiY8Js0",
+        "title": "Florida International University High Performance Database Research Center",
+        "authors": [
+            "N Rishe",
+            "W Sun",
+            "D Barton",
+            "Y Deng",
+            "C Orji",
+            "M Alexopoulos",
+            "L Loureiro",
+            "C 0002",
+            "M Sanchez",
+            "A Shaposhnikov"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "jCrECo8fCO5B",
+        "title": "Rondo: A Programming Platform for Generic Model Management",
+        "authors": [
+            "S Melnik",
+            "E Rahm",
+            "P Bernstein"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "vZtoGEVSzMYw",
+        "title": "OLAP++: Powerful and Easy-to-Use Federations of OLAP and Object Databases",
+        "authors": [
+            "J Gu",
+            "T Pedersen",
+            "A Shoshani"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "WrUjre0XQliZ",
+        "title": "Integrating Symbolic Images into a Multimedia Database System Using Classification and Abstraction Approaches",
+        "authors": [
+            "A Soffer",
+            "H Samet"
+        ],
+        "conference": "VLDB J.",
+        "year": "1998"
+    },
+    {
+        "id": "BZfp6cDMwT0T",
+        "title": "Improving Access to Environmental Data Using Context Information",
+        "authors": [
+            "A Tomasic",
+            "E Simon"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1997"
+    },
+    {
+        "id": "t3ZevF07RDKn",
+        "title": "Copy Detection Mechanisms for Digital Documents",
+        "authors": [
+            "S Brin",
+            "J Davis",
+            "H Garcia-Molina"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "N69bsHlIgJcD",
+        "title": "The Challenge of Process Data Warehousing",
+        "authors": [
+            "M Jarke",
+            "T List",
+            "J K\u00f6ller"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "KCTh8NWTxoXP",
+        "title": "Data Replication for Mobile Computers",
+        "authors": [
+            "Y Huang",
+            "A Sistla",
+            "O Wolfson"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "MEMyey2klszG",
+        "title": "WebService Composition with O'GRAPE and OSIRIS",
+        "authors": [
+            "R Weber",
+            "C Schuler",
+            "P Neukomm",
+            "H Schuldt",
+            "H Schek"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "K3YeHRD6FJbe",
+        "title": "A Vision of Management of Complex Models",
+        "authors": [
+            "P Bernstein",
+            "A Halevy",
+            "R Pottinger"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "4XXj9SyOwjRm",
+        "title": "Fundamentals of data warehouses: 2nd revised and extended edition",
+        "authors": [
+            "V Hoffner"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2003"
+    },
+    {
+        "id": "EjTh0gXESEAe",
+        "title": "A Fast Index for Semistructured Data",
+        "authors": [
+            "B Cooper",
+            "N Sample",
+            "M Franklin",
+            "G Hjaltason",
+            "M Shadmon"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "CTzelPjyQiwf",
+        "title": "Maintaining Coherency of Dynamic Data in Cooperating Repositories",
+        "authors": [
+            "S Shah",
+            "K Ramamritham",
+            "P Shenoy"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "sygpD628zbTf",
+        "title": "Sampling Large Databases for Association Rules",
+        "authors": [
+            "H Toivonen"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "pb5gSUfpuETq",
+        "title": "Datawarehousing Has More Colours Than Just Black & White",
+        "authors": [
+            "T Zurek",
+            "M Sinnwell"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "INqwvrn4GN9P",
+        "title": "REFEREE: An Open Framework for Practical Testing of Recommender Systems using ResearchIndex",
+        "authors": [
+            "D Cosley",
+            "S Lawrence",
+            "D Pennock"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "yD9kxQ3NvN2G",
+        "title": "Distance-Based Outliers: Algorithms and Applications",
+        "authors": [
+            "E Knorr",
+            "R Ng",
+            "V Tucakov"
+        ],
+        "conference": "VLDB J.",
+        "year": "2000"
+    },
+    {
+        "id": "clShU76zYAm0",
+        "title": "Energy-performance trade-offs for spatial access methods on memory-resident data",
+        "authors": [
+            "N An",
+            "S Gurumurthi",
+            "A Sivasubramaniam",
+            "N Vijaykrishnan",
+            "M Kandemir",
+            "M Irwin"
+        ],
+        "conference": "VLDB J.",
+        "year": "2002"
+    },
+    {
+        "id": "yHOKXaZCstUW",
+        "title": "Generating Dynamic Content at Database-Backed Web Servers: cgi-bin vs. mod_perl",
+        "authors": [
+            "A Labrinidis",
+            "N Roussopoulos"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "LurO6qQZe98H",
+        "title": "Object Query Standards",
+        "authors": [
+            "A Wade"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1996"
+    },
+    {
+        "id": "geAt0jWaGAJf",
+        "title": "The Role of B2B Engines in B2B Integration Architectures",
+        "authors": [
+            "C Bussler"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2002"
+    },
+    {
+        "id": "ASVqn7Aima3E",
+        "title": "Staggered Striping in Multimedia Information Systems",
+        "authors": [
+            "S Berson",
+            "S Ghandeharizadeh",
+            "R Muntz",
+            "X Ju"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "qtaO1deGnrnr",
+        "title": "Counting, Enumerating, and Sampling of Execution Plans in a Cost-Based Query Optimizer",
+        "authors": [
+            "F Waas",
+            "C Galindo-Legaria"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "yUO75UXs6VeP",
+        "title": "The REACH Active OODBMS",
+        "authors": [
+            "A Buchmann",
+            "A Deutsch",
+            "J Zimmermann",
+            "M Higa"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "RJehzTnM0RKD",
+        "title": "A Content-Based Multimedia Server for Massively Parallel Architectures",
+        "authors": [
+            "W O'Connell",
+            "I Ieong",
+            "D Schrader",
+            "C Watson",
+            "G Au",
+            "A Biliris",
+            "S Choo",
+            "P Colin",
+            "G Linderman",
+            "E Panagos",
+            "J Wang",
+            "T Walters"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "Btq1qfqhrpJD",
+        "title": "Journal relevance",
+        "authors": [
+            "R Snodgrass"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2003"
+    },
+    {
+        "id": "hJUMBYctBbdr",
+        "title": "Scalable Feature Selection, Classification and Signature Generation for Organizing Large Text Databases into Hierarchical Topic Taxonomies",
+        "authors": [
+            "S Chakrabarti",
+            "B Dom",
+            "R Agrawal",
+            "P Raghavan"
+        ],
+        "conference": "VLDB J.",
+        "year": "1998"
+    },
+    {
+        "id": "y4wPQZh9se7X",
+        "title": "Topological Relations in the World of Minimum Bounding Rectangles: A Study with R-trees",
+        "authors": [
+            "D Papadias",
+            "Y Theodoridis",
+            "T Sellis",
+            "M Egenhofer"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "rjQrhjGJdNW3",
+        "title": "Efficient Algorithms for Mining Outliers from Large Data Sets",
+        "authors": [
+            "S Ramaswamy",
+            "R Rastogi",
+            "K Shim"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "UScXnOn09ujB",
+        "title": "Mining Needle in a Haystack: Classifying Rare Classes via Two-phase Rule Induction",
+        "authors": [
+            "M Joshi",
+            "R Agarwal"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "EWH44AX4gANe",
+        "title": "An Introduction to Spatial Database Systems",
+        "authors": [
+            "R G\u00fcting"
+        ],
+        "conference": "VLDB J.",
+        "year": "1994"
+    },
+    {
+        "id": "yu2VWGmcWrk7",
+        "title": "An XML query engine for network-bound data",
+        "authors": [
+            "Z Ives",
+            "A Halevy",
+            "D Weld"
+        ],
+        "conference": "VLDB J.",
+        "year": "2002"
+    },
+    {
+        "id": "cfeWDfiAeEwp",
+        "title": "Design and Implementation of Advanced Knowledge Processing in the KDMS KRISYS (Demonstration Description)",
+        "authors": [
+            "J Thomas",
+            "S De\u00dfloch",
+            "N Mattos"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "cXKJOUjWrDUS",
+        "title": "QUIET: Continuous Query-driven Index Tuning",
+        "authors": [
+            "K Sattler",
+            "I Geist",
+            "E Schallehn"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "YJ285jLcistf",
+        "title": "KRDB '98: The 5th International Workshop on Knowledge Representation Meets Databases",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "1998"
+    },
+    {
+        "id": "gUYZJczCKa73",
+        "title": "Information Warfare and Security - Book Review",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2001"
+    },
+    {
+        "id": "WBkQNUXmCedu",
+        "title": "Extracting Large-Scale Knowledge Bases from the Web",
+        "authors": [
+            "R Kumar",
+            "P Raghavan",
+            "S Rajagopalan",
+            "A Tomkins"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "OqY4BYFKgcY9",
+        "title": "The MultiView Project: Object-Oriented View Technology and Applications",
+        "authors": [
+            "E Rundensteiner",
+            "H Kuno",
+            "Y Ra",
+            "V Crestana-Taube",
+            "M Jones",
+            "P Marr\u00f3n"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "x8od0tj5IdFn",
+        "title": "Combining Histograms and Parametric Curve Fitting for Feedback-Driven Query Result-size Estimation",
+        "authors": [
+            "A K\u00f6nig",
+            "G Weikum"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "oR59KnOgDILu",
+        "title": "Privacy-Preserving Data Mining",
+        "authors": [
+            "R Agrawal",
+            "R Srikant"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "4pBejadz1lnp",
+        "title": "Aurora: A Data Stream Management System",
+        "authors": [
+            "D Abadi",
+            "D Carney",
+            "U \u00c7etintemel",
+            "M Cherniack",
+            "C Convey",
+            "C Erwin",
+            "E Galvez",
+            "M Hatoun",
+            "A Maskey",
+            "A Rasin",
+            "A Singer",
+            "M Stonebraker",
+            "N Tatbul",
+            "Y Xing",
+            "R Yan",
+            "S Zdonik"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "dbaxIk8mqFZR",
+        "title": "A Multi-Similarity Algebra",
+        "authors": [
+            "S Adali",
+            "P Bonatti",
+            "M Sapino",
+            "V Subrahmanian"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "L7Jo5Yz2HTvk",
+        "title": "Semantic Interoperability in Global Information Systems: A Brief Introduction to the Research Area and the Special Section",
+        "authors": [
+            "A Ouksel",
+            "A Sheth"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1999"
+    },
+    {
+        "id": "nNQarPcyR0dn",
+        "title": "Object-Oriented Features of DB2 Client/Server",
+        "authors": [
+            "H Pirahesh"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "kwcwssn9cmqU",
+        "title": "Phoenix: Making Applications Robust",
+        "authors": [
+            "R Barga",
+            "D Lomet"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "rZwUg7PmIbBz",
+        "title": "Efficient Evaluation of XML Middle-ware Queries",
+        "authors": [
+            "M Fernandez",
+            "A Morishima",
+            "D Suciu"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "GaOQ4UttFuIt",
+        "title": "Extending Practical Pre-Aggregation in On-Line Analytical Processing",
+        "authors": [
+            "T Pedersen",
+            "C Jensen",
+            "C Dyreson"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "JxE4gbwV8H2o",
+        "title": "Too Much Middleware",
+        "authors": [
+            "M Stonebraker"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2002"
+    },
+    {
+        "id": "xkzt2tFsyFRI",
+        "title": "LockX: A System for Efficiently Querying Secure XML",
+        "authors": [
+            "S Cho",
+            "S Amer-Yahia",
+            "L Lakshmanan",
+            "D Srivastava"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "IyCJC2Y34OmU",
+        "title": "Efficient Processing of Joins on Set-valued Attributes",
+        "authors": [
+            "N Mamoulis"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "MNyibt2JEJT4",
+        "title": "A Research Status Report on Adaptation for Mobile Data Access",
+        "authors": [
+            "B Noble",
+            "M Satyanarayanan"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "4hkpT6YK8nMb",
+        "title": "Hypergraph Based Reorderings of Outer Join Queries with Complex Predicates",
+        "authors": [
+            "G Bhargava",
+            "P Goel",
+            "B Iyer"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "Dib2gDw5HriZ",
+        "title": "Mining long sequential patterns in a noisy environment",
+        "authors": [
+            "J Yang",
+            "W Wang",
+            "P Yu",
+            "J Han"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "4m62lLy3Z2Wq",
+        "title": "On Supporting Containment Queries in Relational Database Management Systems",
+        "authors": [
+            "C Zhang",
+            "J Naughton",
+            "D DeWitt",
+            "Q Luo",
+            "G Lohman"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "gP7LR4mjm0ws",
+        "title": "Active Storage for Large-Scale Data Mining and Multimedia",
+        "authors": [
+            "E Riedel",
+            "G Gibson",
+            "C Faloutsos"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "wX9E5fwiXJQX",
+        "title": "ToXgene: a template-based data generator for XML",
+        "authors": [
+            "D Barbosa",
+            "A Mendelzon",
+            "J Keenleyside",
+            "K Lyons"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "BdPYqQhBj0nj",
+        "title": "Partitioned Garbage Collection of Large Object Store",
+        "authors": [
+            "U Maheshwari",
+            "B Liskov"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "hY3n1IoCJ1a8",
+        "title": "SuperSQL: An Extended SQL for Database Publishing and Presentation",
+        "authors": [
+            "M Toyama"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "LFv9uqSM7EU3",
+        "title": "Lineage tracing for general data warehouse transformations",
+        "authors": [
+            "Y Cui",
+            "J Widom"
+        ],
+        "conference": "VLDB J.",
+        "year": "2003"
+    },
+    {
+        "id": "Ussjeh59obHe",
+        "title": "Semantic Integration in Heterogeneous Databases Using Neural Networks",
+        "authors": [
+            "W Li",
+            "C Clifton"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "aPdkz4Tvy3RH",
+        "title": "The LyriC Language: Querying Constraint Objects",
+        "authors": [
+            "A Brodsky",
+            "Y Kornatzky"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "EsbKlMcVoVzp",
+        "title": "Open Object Database Management Systems",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "1994"
+    },
+    {
+        "id": "iYrXUx5Ba7B0",
+        "title": "Join Queries with External Text Sources: Execution and Optimization Techniques",
+        "authors": [
+            "S Chaudhuri",
+            "U Dayal",
+            "T Yan"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "QU2MtPDsA8y4",
+        "title": "Supporting Multiple View Maintenance Policies",
+        "authors": [
+            "L Colby",
+            "A Kawaguchi",
+            "D Lieuwen",
+            "I Mumick",
+            "K Ross"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "hpEML9IvqWmJ",
+        "title": "On-line Reorganization in Object Databases",
+        "authors": [
+            "M Lakhamraju",
+            "R Rastogi",
+            "S Seshadri",
+            "S Sudarshan"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "yNGhnosQREvn",
+        "title": "Logical Design for Temporal Databases with Multiple Granularities",
+        "authors": [
+            "X Wang",
+            "C Bettini",
+            "A Brodsky",
+            "S Jajodia"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1997"
+    },
+    {
+        "id": "uVj9dDj1hV3J",
+        "title": "The OODB Path-Method Generator (PMG) Using Access Weights and Precomputed Access Relevance",
+        "authors": [
+            "A Mehta",
+            "J Geller",
+            "Y Perl",
+            "E Neuhold"
+        ],
+        "conference": "VLDB J.",
+        "year": "1998"
+    },
+    {
+        "id": "aVSLZtsATu0f",
+        "title": "Data Mining: Practical Machine Learning Tools and Techniques - Book Review",
+        "authors": [
+            "J Geller"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2002"
+    },
+    {
+        "id": "PdPLIeJVbnek",
+        "title": "Heraclitus: Elevating Deltas to be First-Class Citizens in a Database Programming Language",
+        "authors": [
+            "S Ghandeharizadeh",
+            "R Hull",
+            "D Jacobs"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1996"
+    },
+    {
+        "id": "EhgUoU2dSMN3",
+        "title": "Spatial and Temporal Content-Based Access to Hypervideo Databases",
+        "authors": [
+            "H Jiang",
+            "A Elmagarmid"
+        ],
+        "conference": "VLDB J.",
+        "year": "1998"
+    },
+    {
+        "id": "bUnNrznJlnHD",
+        "title": "Intelligent Access to Heterogeneous Information Sources: Report on the 4th Workshop on Knowledge Representation Meets Databases",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "1997"
+    },
+    {
+        "id": "zZP9wSpcPneD",
+        "title": "Enabling Dynamic Content Caching for Database-Driven Web Sites",
+        "authors": [
+            "K Candan",
+            "W Li",
+            "Q Luo",
+            "W Hsiung",
+            "D Agrawal"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "0AT2WPo0dhi3",
+        "title": "Objectivity Industrial Exhibit",
+        "authors": [
+            "O Objectivity"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "xHvdwGvFHPd1",
+        "title": "Effective Change Detection Using Sampling",
+        "authors": [
+            "J Cho",
+            "A Ntoulas"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "oJtSVUnEr7e4",
+        "title": "SQLEM: Fast Clustering in SQL using the EM Algorithm",
+        "authors": [
+            "C Ordonez",
+            "P Cereghini"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "aF6ucKEcDAkY",
+        "title": "Mining the World Wide Web: An Information Search Approach - Book Review",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2002"
+    },
+    {
+        "id": "HhjzCLHg7HRM",
+        "title": "Incremental Clustering for Mining in a Data Warehousing Environment",
+        "authors": [
+            "M Ester",
+            "H Kriegel",
+            "J Sander",
+            "M Wimmer",
+            "X Xu"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "H7DjnYPlZGDJ",
+        "title": "The TV-Tree: An Index Structure for High-Dimensional Data",
+        "authors": [
+            "K Lin",
+            "H Jagadish",
+            "C Faloutsos"
+        ],
+        "conference": "VLDB J.",
+        "year": "1994"
+    },
+    {
+        "id": "UUSEZKsSumEu",
+        "title": "Extending an ORDBMS: The StateMachine Module",
+        "authors": [
+            "W Mahnke",
+            "C Mathis",
+            "H Steiert"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "onQup5XE1419",
+        "title": "Random Sampling Techniques for Space Efficient Online Computation of Order Statistics of Large Datasets",
+        "authors": [
+            "G Manku",
+            "S Rajagopalan",
+            "B Lindsay"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "st85LtWEJ3zX",
+        "title": "Towards an ODMG-Compliant Visual Object Query Language",
+        "authors": [
+            "M Chavda",
+            "P Wood"
+        ],
+        "conference": "VLDB",
+        "year": "1997"
+    },
+    {
+        "id": "oDYhxjevizLm",
+        "title": "Research Issues in Databases for ARCS: Active Rapidly Changing Data Systems",
+        "authors": [
+            "A Datta"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1994"
+    },
+    {
+        "id": "Z0burxuHcJKy",
+        "title": "A Regression-Based Temporal Pattern Mining Scheme for Data Streams",
+        "authors": [
+            "W Teng",
+            "M Chen",
+            "P Yu"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "MxmuqOV2j6KX",
+        "title": "Mining Email Content for Author Identification Forensics",
+        "authors": [
+            "O Vel",
+            "A Anderson",
+            "M Corney",
+            "G Mohay"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2001"
+    },
+    {
+        "id": "cwBFzWKqKQ4d",
+        "title": "L/MRP: A Buffer Management Strategy for Interactive Continuous Data Flows in a Multimedia DBMS",
+        "authors": [
+            "F Moser",
+            "A Kraiss",
+            "W Klas"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "TVkXizqB1Cly",
+        "title": "DyDa: Data Warehouse Maintenance in Fully Concurrent Environments",
+        "authors": [
+            "J Chen",
+            "X Zhang",
+            "S Chen",
+            "A Koeller",
+            "E Rundensteiner"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "AqUbPT5AK7bK",
+        "title": "Supporting State-Wide Immunisation Tracking Using Multi-Paradigm Workflow Technology",
+        "authors": [
+            "A Sheth",
+            "K Kochut",
+            "J Miller",
+            "D Worah",
+            "S Das",
+            "C Lin",
+            "D Palaniswami",
+            "J Lynch",
+            "I Shevchenko"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "kferNGkWC0TZ",
+        "title": "Incremental Maintenance for Materialized Views over Semistructured Data",
+        "authors": [
+            "S Abiteboul",
+            "J McHugh",
+            "M Rys",
+            "V Vassalos",
+            "J Wiener"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "Cb5WyNDgZFPS",
+        "title": "Storage and Retrieval of XML Data Using Relational Databases",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2001"
+    },
+    {
+        "id": "JZ0kMhPv5Ok7",
+        "title": "Databases and Visualization",
+        "authors": [
+            "D Keim"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "cv5viOZQO9dn",
+        "title": "Beyond Market Baskets: Generalizing Association Rules to Correlations",
+        "authors": [
+            "S Brin",
+            "R Motwani",
+            "C Silverstein"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "Tfu7fayuqsq2",
+        "title": "Continuous Nearest Neighbor Search",
+        "authors": [
+            "Y Tao",
+            "D Papadias",
+            "Q Shen"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "PUVbMNI6baXk",
+        "title": "Statistical synopses for graph-structured XML databases",
+        "authors": [
+            "N Polyzotis",
+            "M Garofalakis"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "l36lq2uKhjMt",
+        "title": "The Oracle Warehouse",
+        "authors": [
+            "G Hallmark"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "sSXbBN6dutxl",
+        "title": "The Database and Information System Research Group at the University of Ulm",
+        "authors": [
+            "P Dadam",
+            "W Klas"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1997"
+    },
+    {
+        "id": "GbNXqXRQw8lN",
+        "title": "The Implementation and Performance of Compressed Databases",
+        "authors": [
+            "T Westmann",
+            "D Kossmann",
+            "S Helmer",
+            "G Moerkotte"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "Zr8QzJsRpZ30",
+        "title": "ServiceGlobe: Distributing E-Services Across the Internet",
+        "authors": [
+            "M Keidl",
+            "S Seltzsam",
+            "K Stocker",
+            "A Kemper"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "lNKWyHhptIJQ",
+        "title": "Miro Web: Integrating Multiple Data Sources through Semistructured Data Types",
+        "authors": [
+            "L Bouganim",
+            "T Chan-Sine-Ying",
+            "T Dang-Ngoc",
+            "J Darroux",
+            "G Gardarin",
+            "F Sha"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "SR1wR838W6wb",
+        "title": "A Novel Index Supporting High Volume Data Warehouse Insertion",
+        "authors": [
+            "C Jermaine",
+            "A Datta",
+            "E Omiecinski"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "vwNfkMFJsXdV",
+        "title": "ViST: A Dynamic Index Method for Querying XML Data by Tree Structures",
+        "authors": [
+            "H Wang",
+            "S Park",
+            "W Fan",
+            "P Yu"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "lCZfYgZcdgUl",
+        "title": "Data Management Issues in Electronic Commerce (Panel)",
+        "authors": [
+            "M \u00d6zsu"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "r4CW9IOIoNQM",
+        "title": "Workshop Report on Experiences Using Object Data Management in the Real-World",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "1998"
+    },
+    {
+        "id": "QbHHa9vqTlmk",
+        "title": "Component-based E-Commerce: Assesment of Current Practices and Future Directions",
+        "authors": [
+            "M Bichler",
+            "A Segev",
+            "J Zhao"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1998"
+    },
+    {
+        "id": "drsHFLsnswy6",
+        "title": "Databases and Workflow Management: What is it All About? (Panel)",
+        "authors": [
+            "A Reuter",
+            "S Ceri",
+            "J Gray",
+            "B Salzberg",
+            "G Weikum"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "o0wPyyORIhdh",
+        "title": "PSoup: a system for streaming queries over streaming data",
+        "authors": [
+            "S Chandrasekaran",
+            "M Franklin"
+        ],
+        "conference": "VLDB J.",
+        "year": "2003"
+    },
+    {
+        "id": "NTgxT7SNI4Lw",
+        "title": "Temporal Conditions and Integrity Constraints in Active Database Systems",
+        "authors": [
+            "A Sistla",
+            "O Wolfson"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "AxUfeg3CALOb",
+        "title": "BibFinder/StatMiner: Effectively Mining and Using Coverage and Overlap Statistics in Data Integration",
+        "authors": [
+            "Z Nie",
+            "S Kambhampati",
+            "T Hernandez"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "iFRR1VNH90fZ",
+        "title": "Are We Working On the Right Problems? (Panel)",
+        "authors": [
+            "M Stonebraker"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "uWnJUlK0xslY",
+        "title": "Answering Queries with Aggregation Using Views",
+        "authors": [
+            "D Srivastava",
+            "S Dar",
+            "H Jagadish",
+            "A Levy"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "LYizRMNQLbyv",
+        "title": "Probabilistic Optimization of Top N Queries",
+        "authors": [
+            "D Donjerkovic",
+            "R Ramakrishnan"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "oLkRLaliV64F",
+        "title": "Application Architecture: 2Tier or 3Tier? What is DBMS's Role? (Panel Abstract)",
+        "authors": [
+            "A Nori"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "FM6W7tJFNCsQ",
+        "title": "Managing a DB2 Parallel Edition Database",
+        "authors": [
+            "G Fecteau"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "iUGpCLtrRXXN",
+        "title": "The Need for Distributed Asynchronous Transactions",
+        "authors": [
+            "L Do",
+            "P Ram",
+            "P Drew"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "oZOKcUyHJ0Jx",
+        "title": "Parallelising OODBMS Traversals: A Performance Evaluation",
+        "authors": [
+            "D DeWitt",
+            "J Naughton",
+            "J Shafer",
+            "S Venkataraman"
+        ],
+        "conference": "VLDB J.",
+        "year": "1996"
+    },
+    {
+        "id": "N7hL7ULwQkaa",
+        "title": "What can Hierarchies do for Data Warehouses?",
+        "authors": [
+            "H Jagadish",
+            "L Lakshmanan",
+            "D Srivastava"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "JaBbg4NulP0o",
+        "title": "Proxy-based acceleration of dynamically generated content on the world wide web: an approach and implementation",
+        "authors": [
+            "A Datta",
+            "K Dutta",
+            "H Thomas",
+            "D VanderMeer",
+            "S Suresha",
+            "K Ramamritham"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "OFdrxrkYtYYF",
+        "title": "Wireless Client/Server Computing for Personal Information Services and Applications",
+        "authors": [
+            "A Elmagarmid",
+            "J Jing",
+            "T Furukawa"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "0Vm61Z1IB2SG",
+        "title": "View Management in Multimedia Databases",
+        "authors": [
+            "K Candan",
+            "E Lemar",
+            "V Subrahmanian"
+        ],
+        "conference": "VLDB J.",
+        "year": "2000"
+    },
+    {
+        "id": "dpi9wsLq8Gq2",
+        "title": "Opportunities in Information Management and Assurance",
+        "authors": [
+            "X Qian"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1997"
+    },
+    {
+        "id": "0khjOvOUTWJa",
+        "title": "Managing Video Data in a Mobile Environment",
+        "authors": [
+            "R Alonso",
+            "Y Chang",
+            "L Iftode",
+            "V Mani"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "xbKAxstRP6wT",
+        "title": "Exploiting Versions for On-line Data Warehouse Maintenance in MOLAP Servers",
+        "authors": [
+            "H Kang",
+            "C Chung"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "tqrGkpYzbDQE",
+        "title": "About Quark Digital Media System",
+        "authors": [
+            "K Aulakh"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "ji1HO6pOCmN3",
+        "title": "Flexible Relations - Operational Support of Variant Relational Structures",
+        "authors": [
+            "C Kalus",
+            "P Dadam"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "UVXgldHfcEF2",
+        "title": "A Layered Architecture for Querying Dynamic Web Content",
+        "authors": [
+            "H Davulcu",
+            "J Freire",
+            "M Kifer",
+            "I Ramakrishnan"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "yKk6X1YB1eVx",
+        "title": "Spatial indexing of high-dimensional data based on relative approximation",
+        "authors": [
+            "Y Sakurai",
+            "M Yoshikawa",
+            "S Uemura",
+            "H Kojima"
+        ],
+        "conference": "VLDB J.",
+        "year": "2002"
+    },
+    {
+        "id": "Ls3isNalFLLg",
+        "title": "Outerjoin Simplification and Reordering for Query Optimization",
+        "authors": [
+            "C Galindo-Legaria",
+            "A Rosenthal"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1997"
+    },
+    {
+        "id": "RulFGGAamU0N",
+        "title": "Crawling the Hidden Web",
+        "authors": [
+            "S Raghavan",
+            "H Garcia-Molina"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "umOAb8ZLf2QN",
+        "title": "From Structured Documents to Novel Query Facilities",
+        "authors": [
+            "V Christophides",
+            "S Abiteboul",
+            "S Cluet",
+            "M Scholl"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "VoM0nh4ynwaC",
+        "title": "The Generalized MDL Approach for Summarization",
+        "authors": [
+            "L Lakshmanan",
+            "R Ng",
+            "C Wang",
+            "X Zhou",
+            "T Johnson"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "okzJRRcTGqds",
+        "title": "Fast Incremental Indexing for Full-Text Information Retrieval",
+        "authors": [
+            "E Brown",
+            "J Callan",
+            "W Croft"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "Uvoa6eSOE91B",
+        "title": "50,000 Users on an Oracle8 Universal Server Database",
+        "authors": [
+            "T Lahiri",
+            "A Josji",
+            "A Jasuja",
+            "S Chatterjee"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "aC3giCT2o1rA",
+        "title": "Calibrating the Query Optimizer Cost Model of IRO-DB, an Object-Oriented Federated Database System",
+        "authors": [
+            "G Gardarin",
+            "F Sha",
+            "Z Tang"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "lnQ86S80tc87",
+        "title": "A Survey of Logical Models for OLAP Databases",
+        "authors": [
+            "P Vassiliadis",
+            "T Sellis"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1999"
+    },
+    {
+        "id": "cwlSljQGjRN6",
+        "title": "Scalable Parallel Data Mining for Association Rules",
+        "authors": [
+            "E Han",
+            "G Karypis",
+            "V Kumar"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "wTACnYbcuhq5",
+        "title": "The Impact of Global Clustering on Spatial Database Systems",
+        "authors": [
+            "T Brinkhoff",
+            "H Kriegel"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "oZVG4qSTPYtn",
+        "title": "Capturing both Types and Constraints in Data Integration",
+        "authors": [
+            "M Benedikt",
+            "C Chan",
+            "W Fan",
+            "J Freire",
+            "R Rastogi"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "XGwDAqie4S7A",
+        "title": "Is GUI Programming a Database Research Problem?",
+        "authors": [
+            "N Goyal",
+            "C Hoch",
+            "R Krishnamurthy",
+            "B Meckler",
+            "M Suckow"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1996"
+    },
+    {
+        "id": "AmGOv762FhnE",
+        "title": "Research Activities in Database Management and Information Retrieval at the University of Illinois at Chicago",
+        "authors": [
+            "I Cruz",
+            "A Khokhar",
+            "B Liu",
+            "A Sistla",
+            "O Wolfson",
+            "C Yu"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2002"
+    },
+    {
+        "id": "XzDgBwurkSAZ",
+        "title": "Exact Indexing of Dynamic Time Warping",
+        "authors": [
+            "E Keogh"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "vrRYI6tRSv4a",
+        "title": "Secure and Portable Database Extensibility",
+        "authors": [
+            "M Godfrey",
+            "T Mayr",
+            "P Seshadri",
+            "T Eicken"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "riAaSQqcW3lV",
+        "title": "The sensor spectrum: technology, trends, and requirements",
+        "authors": [
+            "J Hellerstein",
+            "W Hong",
+            "S Madden"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2003"
+    },
+    {
+        "id": "X9WhgAYb6HPc",
+        "title": "SQL Standardization: The Next Steps",
+        "authors": [
+            "A Eisenberg",
+            "J Melton"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "zcFkrMbyteRI",
+        "title": "The MLPQ/GIS Constraint Database System",
+        "authors": [
+            "P Revesz",
+            "R Chen",
+            "P Kanjamala",
+            "Y Li",
+            "Y Liu",
+            "Y Wang"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "U4xdnPgBG2DX",
+        "title": "Theory of Answering Queries Using Views",
+        "authors": [
+            "A Halevy"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "O43Voc9aZJjp",
+        "title": "Improving Timeliness in Real-Time Secure Database Systems",
+        "authors": [
+            "S Son",
+            "R David",
+            "B Thuraisingham"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1996"
+    },
+    {
+        "id": "LSkfodQLxeQz",
+        "title": "User-oriented smart-cache for the Web: What You Seek is What You Get!",
+        "authors": [
+            "Z Lacroix",
+            "A Sahuguet",
+            "R Chandrasekar"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "D17kODiJi87b",
+        "title": "Eddies: Continuously Adaptive Query Processing",
+        "authors": [
+            "R Avnur",
+            "J Hellerstein"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "bK5wAtjWB8cF",
+        "title": "S3: Similarity Search in CAD Database Systems",
+        "authors": [
+            "S Berchtold",
+            "H Kriegel"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "S2ttsBXT3c7G",
+        "title": "MPEG-7 and Multimedia Database Systems",
+        "authors": [
+            "H Kosch"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2002"
+    },
+    {
+        "id": "t9cHtU7mrxrm",
+        "title": "Compressed Accessibility Map: Efficient Access Control for XML",
+        "authors": [
+            "T Yu",
+            "D Srivastava",
+            "L Lakshmanan",
+            "H Jagadish"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "gCy4tKLvzCrs",
+        "title": "Concurrency and Recovery for Index Trees",
+        "authors": [
+            "D Lomet",
+            "B Salzberg"
+        ],
+        "conference": "VLDB J.",
+        "year": "1997"
+    },
+    {
+        "id": "GVKjZjRbMrYZ",
+        "title": "Microsoft Index Tuning Wizard for SQL Server 7.0",
+        "authors": [
+            "S Chaudhuri",
+            "V Narasayya"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "hwixIQlq3cg1",
+        "title": "Online Query Processing",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2001"
+    },
+    {
+        "id": "4SMsjqD1WTal",
+        "title": "Visual Web Information Extraction with Lixto",
+        "authors": [
+            "R Baumgartner",
+            "S Flesca",
+            "G Gottlob"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "eNfR4MpicoGv",
+        "title": "Mapping Data in Peer-to-Peer Systems: Semantics and Algorithmic Issues",
+        "authors": [
+            "A Kementsietsidis",
+            "M Arenas",
+            "R Miller"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "0FQUIZVSL9Y3",
+        "title": "A TSQL2 Tutorial",
+        "authors": [
+            "nodgrass",
+            "I Ahn",
+            "G Ariav",
+            "D Batory",
+            "J Clifford",
+            "C Dyreson",
+            "R Elmasri",
+            "F Grandi",
+            "C Jensen",
+            "W K\u00e4fer",
+            "N Kline",
+            "K Kulkarni",
+            "T Leung",
+            "N Lorentzos",
+            "J Roddick",
+            "A Segev",
+            "M Soo",
+            "S Sripada"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1994"
+    },
+    {
+        "id": "zuPFBzTRnix0",
+        "title": "Finding Hierarchical Heavy Hitters in Data Streams",
+        "authors": [
+            "G Cormode",
+            "F Korn",
+            "S Muthukrishnan",
+            "D Srivastava"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "vxCal15ezkNx",
+        "title": "Timer-Driven Database Triggers and Alerters: Semantics and a Challenge",
+        "authors": [
+            "E Hanson",
+            "L Noronha"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1999"
+    },
+    {
+        "id": "W4BK2ycsZwhr",
+        "title": "Fast and accurate text classification via multiple linear discriminant projections pp",
+        "authors": [
+            "S Chakrabarti",
+            "S Roy",
+            "M Soundalgekar"
+        ],
+        "conference": "VLDB J.",
+        "year": "2003"
+    },
+    {
+        "id": "jaSX3mAFyIKc",
+        "title": "DEVise: Integrated Querying and Visual Exploration of Large Datasets (Demo Abstract)",
+        "authors": [
+            "M Livny",
+            "R Ramakrishnan",
+            "K Beyer",
+            "G Chen",
+            "D Donjerkovic",
+            "S Lawande",
+            "J Myllymaki",
+            "R Wenger"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "siPczkKSQrKg",
+        "title": "METU Object-Oriented DBMS",
+        "authors": [
+            "A Dogac",
+            "I Arpinar",
+            "C Evrendilek",
+            "C Ozkan",
+            "I Altintas",
+            "I Durusoy",
+            "M Altinel",
+            "T Okay",
+            "Y Saygin"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "n4DtOG5q29Nb",
+        "title": "Offering a Precision-Performance Tradeoff for Aggregation Queries over Replicated Data",
+        "authors": [
+            "C Olston",
+            "J Widom"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "RqaUanUDVmcB",
+        "title": "BigSur: A System For the Management of Earth Science Data",
+        "authors": [
+            "P Brown",
+            "M Stonebraker"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "Lr2ibqS1KCjj",
+        "title": "Focused Crawling Using Context Graphs",
+        "authors": [
+            "M Diligenti",
+            "F Coetzee",
+            "S Lawrence",
+            "C Giles",
+            "M Gori"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "KxFT5vtZ7OnU",
+        "title": "Cache Invalidation Scheme for Mobile Computing Systems with Real-time Data",
+        "authors": [
+            "J Yuen",
+            "E Chan",
+            "K Lam",
+            "H Leung"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "GxWLu4HqUpId",
+        "title": "Guest Editor's Introduction",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "1998"
+    },
+    {
+        "id": "o3EA2xBp0vKy",
+        "title": "The COntext INterchange Mediator Prototype",
+        "authors": [
+            "S Bressan",
+            "C Goh",
+            "K Fynn",
+            "M Jakobisiak",
+            "K Hussein",
+            "H Kon",
+            "T Lee",
+            "S Madnick",
+            "T Pena",
+            "J Qu",
+            "A Shum",
+            "M Siegel"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "uR2kHqgL4hvj",
+        "title": "Efficient Mid-Query Re-Optimization of Sub-Optimal Query Execution Plans",
+        "authors": [
+            "N Kabra",
+            "D DeWitt"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "cgfKgtWdlq5L",
+        "title": "Edgar F. Codd: a tribute and personal memoir",
+        "authors": [
+            "C Date"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2003"
+    },
+    {
+        "id": "WYivtAYm3F7P",
+        "title": "FileNet Integrated Document Management Database Usage and Issues",
+        "authors": [
+            "D Whelan"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "tL67uEVaU7aG",
+        "title": "Database Techniques for the World-Wide Web: A Survey",
+        "authors": [
+            "D Florescu",
+            "A Levy",
+            "A Mendelzon"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1998"
+    },
+    {
+        "id": "UJPv0HHKJM1t",
+        "title": "NexusScout: An Advanced Location-Based Application on a Distributed, Open Mediation Platform",
+        "authors": [
+            "D Nicklas",
+            "M Gro\u00dfmann",
+            "T Schwarz"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "o03zWKC9rgJh",
+        "title": "Research in database engineering at the University of Namur",
+        "authors": [
+            "J Hainaut"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2003"
+    },
+    {
+        "id": "JQz5BzRIUjrh",
+        "title": "Outerjoins as Disjunctions",
+        "authors": [
+            "C Galindo-Legaria"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "EXMDSEfvdUr9",
+        "title": "Algebraic Query Optimisation for Database Programming Languages",
+        "authors": [
+            "A Poulovassilis",
+            "C Small"
+        ],
+        "conference": "VLDB J.",
+        "year": "1996"
+    },
+    {
+        "id": "PsXa7B63v0ys",
+        "title": "Querying and Mining Data Streams: You Only Get One Look",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "2002"
+    },
+    {
+        "id": "PaYEYwHuq6FD",
+        "title": "A Comparison of Three User Interfaces to Relational Microcomputer Data Bases",
+        "authors": [
+            "C Medsker",
+            "M Christensen",
+            "I Song"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "aT01KeMf1G2t",
+        "title": "Mediator Languages - a Proposal for a Standard",
+        "authors": [
+            "P Buneman",
+            "L Raschid",
+            "J Ullman"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1997"
+    },
+    {
+        "id": "T8YbddD3QX5j",
+        "title": "On-Line Warehouse View Maintenance",
+        "authors": [
+            "D Quass",
+            "J Widom"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "XgfA2i2VE0kQ",
+        "title": "The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries",
+        "authors": [
+            "N Katayama",
+            "S Satoh"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "h6PAV16q0hwf",
+        "title": "Type-Checking OQL Queries In the ODMG Type Systems",
+        "authors": [
+            "S Alagic"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1999"
+    },
+    {
+        "id": "ICPYGXDSf705",
+        "title": "DB2 Spatial Extender - Spatial data within the RDBMS",
+        "authors": [
+            "D Adler"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "UfwOyIIhuMSS",
+        "title": "The Drill Down Benchmark",
+        "authors": [
+            "P Boncz",
+            "T R\u00fchl",
+            "F Kwakkel"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "dKvB2ZNSnpDW",
+        "title": "An Annotated Bibliography on Active Databases",
+        "authors": [
+            "U Jaeger",
+            "J Freytag"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "paZup9EY1NIA",
+        "title": "FlowBack: Providing Backward Recovery for Workflow Systems",
+        "authors": [
+            "B Kiepuszewski",
+            "R M\u00fchlberger",
+            "M Orlowska"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "R9I3x1GUne5F",
+        "title": "Temporal Database System Implementations",
+        "authors": [
+            "M B\u00f6hlen"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1995"
+    },
+    {
+        "id": "MuLFs39TCcLg",
+        "title": "Improving Index Performance through Prefetching",
+        "authors": [
+            "S Chen",
+            "P Gibbons",
+            "T Mowry"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "ETl2N9RLyUFW",
+        "title": "Value-cognizant Speculative Concurrency Control",
+        "authors": [
+            "A Bestavros",
+            "S Braoudakis"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "BccDWTt9s3Tp",
+        "title": "A Characterization of the Sensitivity of Query Optimization to Storage Access Cost Parameters",
+        "authors": [
+            "F Reiss",
+            "T Kanungo"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "sOKsSWblJuYG",
+        "title": "CheeTah: a Lightweight Transaction Server for Plug-and-Play Internet Data Management",
+        "authors": [
+            "G Pardon",
+            "G Alonso"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "Yb7Lw6QQfmdi",
+        "title": "High-Performance Sorting on Networks of Workstations",
+        "authors": [
+            "A Arpaci-Dusseau",
+            "R Arpaci-Dusseau",
+            "D Culler",
+            "J Hellerstein",
+            "D Patterson"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "KfHZDVrdFfKt",
+        "title": "The Montage Extensible DataBlade Achitecture",
+        "authors": [
+            "M Ubell"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1994"
+    },
+    {
+        "id": "SzIosbsY9BHr",
+        "title": "Translating Web Data",
+        "authors": [
+            "L Popa",
+            "Y Velegrakis",
+            "R Miller",
+            "M Hern\u00e1ndez",
+            "R Fagin"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "J3SVwbYkwHMh",
+        "title": "A Consensus Glossary of Temporal Database Concepts",
+        "authors": [
+            "C Jensen",
+            "J Clifford",
+            "R Elmasri",
+            "S Gadia",
+            "P Hayes",
+            "S Jajodia"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1994"
+    },
+    {
+        "id": "awqMac2kV6L3",
+        "title": "Low-Cost Compensation-Based Query Processing",
+        "authors": [
+            "\u00d8 Gr\u00f8vlen",
+            "S Hvasshovd",
+            "\u00d8 Torbj\u00f8rnsen"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "PhDP1PMOqKp4",
+        "title": "Selectivity Estimation using Probabilistic Models",
+        "authors": [
+            "L Getoor",
+            "B Taskar",
+            "D Koller"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "U976thoMZezG",
+        "title": "EOS: Exactly-Once E-Service Middleware",
+        "authors": [
+            "G Shegalov",
+            "G Weikum",
+            "R Barga",
+            "D Lomet"
+        ],
+        "conference": "VLDB",
+        "year": "2002"
+    },
+    {
+        "id": "h6X73PWlmBu5",
+        "title": "Exchanging Intensional XML Data",
+        "authors": [
+            "T Milo",
+            "S Abiteboul",
+            "B Amann",
+            "O Benjelloun",
+            "F Ngoc"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "RwN9RRK6HFq3",
+        "title": "2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm",
+        "authors": [
+            "T Johnson",
+            "D Shasha"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "IGr2Wtn1wGm0",
+        "title": "Informix Online XPS",
+        "authors": [
+            "R Gerber"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1995"
+    },
+    {
+        "id": "sBcu43N2mXYJ",
+        "title": "GridDB: A Database Interface to the Grid",
+        "authors": [
+            "D Liu",
+            "M Franklin",
+            "D Parekh"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2003"
+    },
+    {
+        "id": "gMkAsl6c4Yif",
+        "title": "LH*RS: A High-Availability Scalable Distributed Data Structure using Reed Solomon Codes",
+        "authors": [
+            "W Litwin",
+            "T Schwarz"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "iksVXwL2LLY8",
+        "title": "An Overview and Classification of Mediated Query Systems",
+        "authors": [
+            "R Domenig",
+            "K Dittrich"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1999"
+    },
+    {
+        "id": "Iun7OnYCpS5n",
+        "title": "Metadata Standards for Data Warehousing: Open Information Model vs. Common Warehouse Metamodel",
+        "authors": [
+            "T Vetterli",
+            "A Vaduva",
+            "M Staudt"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2000"
+    },
+    {
+        "id": "KatHKIBoTCeV",
+        "title": "The ND-Tree: A Dynamic Indexing Technique for Multidimensional Non-ordered Discrete Data Spaces",
+        "authors": [
+            "G Qian",
+            "Q Zhu",
+            "Q Xue",
+            "S Pramanik"
+        ],
+        "conference": "VLDB",
+        "year": "2003"
+    },
+    {
+        "id": "Aq1kNHdzZbz5",
+        "title": "Discovery of Multiple-Level Association Rules from Large Databases",
+        "authors": [
+            "J Han",
+            "Y Fu"
+        ],
+        "conference": "VLDB",
+        "year": "1995"
+    },
+    {
+        "id": "E6Om71cT8bHf",
+        "title": "Design, Implementation, and Performance of the LHAM Log-Structured History Data Access Method",
+        "authors": [
+            "P Muth",
+            "P O'Neil",
+            "A Pick",
+            "G Weikum"
+        ],
+        "conference": "VLDB",
+        "year": "1998"
+    },
+    {
+        "id": "XZjlyzicQmSw",
+        "title": "Query Processing Techniques for Multiversion Access Methods",
+        "authors": [
+            "J Bercken",
+            "B Seeger"
+        ],
+        "conference": "VLDB",
+        "year": "1996"
+    },
+    {
+        "id": "OeVoxg3khdf0",
+        "title": "The n-Tier Hub Technology",
+        "authors": [
+            "R Sommer",
+            "T Gulledge",
+            "D Bailey"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2002"
+    },
+    {
+        "id": "XhACSWdnfkRE",
+        "title": "Image Mining in IRIS: Integrated Retinal Information System",
+        "authors": [
+            "W Hsu",
+            "M Lee",
+            "K Goh"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2000"
+    },
+    {
+        "id": "0MAlpqhxmoeR",
+        "title": "Your Mediators Need Data Conversion!",
+        "authors": [
+            "S Cluet",
+            "C Delobel",
+            "J Sim\u00e9on",
+            "K Smaga"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1998"
+    },
+    {
+        "id": "cymrF9SaSKuS",
+        "title": "Information integration on the Web: a view from AI and databases (report on IIWeb-03)",
+        "authors": [
+            "S Kambhampati",
+            "C Knoblock"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "2003"
+    },
+    {
+        "id": "rtOgDaTZJ4Ls",
+        "title": "Efficient Numerical Error Bounding for Replicated Network Services",
+        "authors": [
+            "H Yu",
+            "A Vahdat"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "ong4Y8Y3gAQ6",
+        "title": "PM3: An Orthogonal Persistent Systems Programming Language - Design, Implementation, Performance",
+        "authors": [
+            "A Hosking",
+            "J Chen"
+        ],
+        "conference": "VLDB",
+        "year": "1999"
+    },
+    {
+        "id": "oPDJyWeQ2U4F",
+        "title": "QURSED: querying and reporting semistructured data",
+        "authors": [
+            "Y Papakonstantinou",
+            "M Petropoulos",
+            "V Vassalos"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2002"
+    },
+    {
+        "id": "ejXIpW65dZDi",
+        "title": "The Evolution of the Web and Implications for an Incremental Crawler",
+        "authors": [
+            "J Cho",
+            "H Garcia-Molina"
+        ],
+        "conference": "VLDB",
+        "year": "2000"
+    },
+    {
+        "id": "wMD6WcABnxXr",
+        "title": "Integrating Modelling Systems for Environmental Management Information Systems",
+        "authors": [
+            "D Abel",
+            "K Taylor",
+            "D Kuo"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1997"
+    },
+    {
+        "id": "VgfQNJRBRyLM",
+        "title": "World Wide Database - Integrating the Web, CORBA, and Databases",
+        "authors": [
+            "A Bouguettaya",
+            "B Benatallah",
+            "L Hendra",
+            "J Beard",
+            "K Smith",
+            "M Ouzzani"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "T3DbJmWDJnv0",
+        "title": "Online Aggregation",
+        "authors": [
+            "J Hellerstein",
+            "P Haas",
+            "H Wang"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1997"
+    },
+    {
+        "id": "p6VrdNm7JTtQ",
+        "title": "Indexing the Distance: An Efficient Method to KNN Processing",
+        "authors": [
+            "C Yu",
+            "B Ooi",
+            "K Tan",
+            "H Jagadish"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "kNiPZr1T0Dnp",
+        "title": "An Overview of the Emerging Third-Generation SQL Standard (Tutorial)",
+        "authors": [
+            "N/A"
+        ],
+        "conference": "N/A",
+        "year": "1995"
+    },
+    {
+        "id": "mI4ylEqTKBvN",
+        "title": "Automatic Segmentation of Text into Structured Records",
+        "authors": [
+            "V Borkar",
+            "K Deshmukh",
+            "S Sarawagi"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "2001"
+    },
+    {
+        "id": "AXxapUdCjfLM",
+        "title": "The Aqua Approximate Query Answering System",
+        "authors": [
+            "S Acharya",
+            "P Gibbons",
+            "V Poosala",
+            "S Ramaswamy"
+        ],
+        "conference": "SIGMOD Conference",
+        "year": "1999"
+    },
+    {
+        "id": "MmfO3rQ795TD",
+        "title": "Lore: A Database Management System for Semistructured Data",
+        "authors": [
+            "J McHugh",
+            "S Abiteboul",
+            "R Goldman",
+            "D Quass",
+            "J Widom"
+        ],
+        "conference": "SIGMOD Record",
+        "year": "1997"
+    },
+    {
+        "id": "8zjoxl3d6LVL",
+        "title": "V-Trees - A Storage Method for Long Vector Data",
+        "authors": [
+            "M Mediano",
+            "M Casanova",
+            "M Dreux"
+        ],
+        "conference": "VLDB",
+        "year": "1994"
+    },
+    {
+        "id": "IMnzvNBPk0ny",
+        "title": "An Evaluation of Generic Bulk Loading Techniques",
+        "authors": [
+            "J Bercken",
+            "B Seeger"
+        ],
+        "conference": "VLDB",
+        "year": "2001"
+    },
+    {
+        "id": "BMdIk5P6CeuS",
+        "title": "Polymorphism and Type Inference in Database Programming",
+        "authors": [
+            "P Buneman",
+            "A Ohori"
+        ],
+        "conference": "ACM Trans. Database Syst.",
+        "year": "1996"
+    }
+]
